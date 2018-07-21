@@ -8,6 +8,8 @@ extra_css:
 
 theme: windmill
 
+google_analytics: ['UA-103808910-1', 'auto']
+
 pages:
   - 目次: index.md
   - 1. マルチパネル: multi-panel.md

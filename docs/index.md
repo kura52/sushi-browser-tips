@@ -71,7 +71,7 @@ This browser's history function, in addition to the usual history, it can record
 On the top page, the links and speed dials to all the pages being managed and the latest history are displayed.
 
 [**20. Screenshot**](screenshot.md)  
-Screenshots of the whole page or of a selected area can be made.
+Screenshots of the whole page or a selected area can be made.  
 
 [**21. Find in Page**](find-in-page.md)  
 In "Find Page", in addition to the search functions of Chrome, it can carry out searches using OR or regular expressions.   

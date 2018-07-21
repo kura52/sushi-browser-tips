@@ -8,6 +8,8 @@ extra_css:
 
 theme: windmill
 
+google_analytics: ['UA-103808910-1','auto']
+
 pages:
   - Table of Contents: index.md
   - 1. Multi Panel: multi-panel.md

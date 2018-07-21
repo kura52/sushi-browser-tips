@@ -1,6 +1,6 @@
 ## Screenshot
 
-Screenshots of the whole page or of a selected area can be made.  
+Screenshots of the whole page or a selected area can be made.   
 
 Mousing over the camera icon of the main menu displays the below menu and screenshots can be obtained.  
  - Full Page | Clipboard ・・・ Save whole page screenshots to clipboard 
