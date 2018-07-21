@@ -1,0 +1,40 @@
+site_name: Sushi Browser Tips
+
+markdown_extensions:
+    - fontawesome_markdown
+
+extra_css:
+    - "css/org.css"
+
+theme: windmill
+
+pages:
+  - 目次: index.md
+  - 1. マルチパネル: multi-panel.md
+  - 2. 動画支援機能: video.md
+  - 3. タブ機能: tab.md
+  - 4. セッションマネージャ: session-manager.md
+  - 5. ダウンローダ: downloader.md
+  - 6. プライバシー、セキュリティ: privacy-and-security.md
+  - 7. 検索エンジン: search-engine.md
+  - 8. Note: note.md
+  - 9. ポータブル版: portable-edtion.md
+  - 10. 右クリックメニュー: context-menu.md
+  - 11. キーボードショートカット: keyboard-shortcuts.md
+  - 12. マウスジェスチャー: mouse-gesture.md
+  - 13. Chrome拡張: chrome-extension.md
+  - 14. Chromeテーマ: chrome-theme.md
+  - 15. データのエクスポート、インポート: data-export-and-import.md
+  - 16. 多彩な設定: various-settings.md
+  - 17. メインメニュー、メニューバー: menu-and-bar.md
+  - 18. 履歴、滞在回数・時間: history.md
+  - 19. トップページ: top-page.md
+  - 20. スクリーンショット: screenshot.md
+  - 21. ページ内検索: find-in-page.md
+  - 22. 表示切り替え、ウインドウ固定: display-switching-and-bind-window.md
+  - 23. ブックマーク: bookmarks.md
+  - 24. ビルドインツール: build-in-tools.md
+  - 25. Video Conveter: video-converter.md
+  - 26. Automation: automation.md
+  - 27. Webテクノロジーの紹介: web-technology.md
+

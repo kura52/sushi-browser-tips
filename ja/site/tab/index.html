@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>3. タブ機能 - Sushi Browser Tips</title>
+    <link href="../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/highlight.css">
+    <link href="../css/org.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "\u30bf\u30d6\u6a5f\u80fd", url: "#_top", children: [
+              {title: "1. \u591a\u6bb5\u30bf\u30d6", url: "#1" },
+              {title: "2. \u7e26\u30bf\u30d6\u3001\u30c4\u30ea\u30fc\u30bf\u30d6", url: "#2" },
+              {title: "3. \u30de\u30a6\u30b9\u30db\u30a4\u30fc\u30eb\u306b\u3088\u308b\u30bf\u30d6\u9078\u629e", url: "#3" },
+              {title: "4. \u30bf\u30d6\u30d7\u30ec\u30d3\u30e5\u30fc", url: "#4" },
+              {title: "5. \u30bf\u30d6\u8a2d\u5b9a", url: "#5" },
+              {title: "6.\u30bf\u30d6\u306b\u5bfe\u3057\u3066\u53ef\u80fd\u306a\u64cd\u4f5c (\u30bf\u30d6\u306e\u30b3\u30f3\u30c6\u30ad\u30b9\u30c8\u30e1\u30cb\u30e5\u30fc)", url: "#6" },
+          ]},
+        ];
+
+    </script>
+    <script src="../js/base.js"></script> 
+<link rel="shortcut icon" href="../../myimg/logo.png">
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../session-manager/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../session-manager/" class="btn btn-xs btn-link">
+        4. セッションマネージャ
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../video/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../video/" class="btn btn-xs btn-link">
+        2. 動画支援機能
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h2 id="_1">タブ機能</h2>
+<p>Sushi Browserはタブに関しても、画面の有効利用や便利機能の取り込みを積極的に行っています。<br />
+例えば、FirefoxのアドオンのTab Mix Plusに相当する機能を多数取り入れています。</p>
+<hr />
+<h3 id="1">1. 多段タブ</h3>
+<p>Sushi Browserでは多段タブを利用でき、メインメニューから通常タブと多段タブを切り替えることができます。<br />
+また、「設定 &gt; タブ」から多段タブの段数や最小や最大のタブ幅が設定可能です。
+<img alt="multi" src="../img/tab-multi.gif" />
+<img alt="multi-setting" src="../img/tab-multi-setting.png" /></p>
+<hr />
+<h3 id="2">2. 縦タブ、ツリータブ</h3>
+<p>Sushi Browserでは縦タブを利用でき、メニューバーのサイドバーアイコンから縦タブを表示することができます。<br />
+縦タブ表示時は、通常のタブを非表示にすることも可能です。</p>
+<p>また、ツリータブ（タブを開いた順に階層となる）の利用も可能で、パネル間の関係性は番号で表現されます。
+<img alt="vertical" src="../img/tab-vertical.gif" /></p>
+<hr />
+<h3 id="3">3. マウスホイールによるタブ選択</h3>
+<p>タブバー上でマウスホイールを動かすことで、スクロールによりタブを選択できます。<br />
+また、循環式の選択(最後まで移動したら、次は最初のタブへ移動する)も設定可能です。
+<img alt="scroll" src="../img/tab-scroll.png" /></p>
+<hr />
+<h3 id="4">4. タブプレビュー</h3>
+<p>ポップアップ方式とスライド方式のタブプレビューが利用できます。(EdgeやVivaldiと同様)<br />
+メインメニューから ON/OFFを切り替えることができます。<br />
+また、タブプレビューのサイズや画像のクオリティ、表示タイミングの設定も可能です。 </p>
+<p>ポップアップ方式のタブプレビューに関しては、以下も設定可能です。  </p>
+<p>・ 幅または高さに空にすると、縦横比から自動でサイズを設定します。両方からにすると原寸大サイズで表示されます。<br />
+ ・ 「Display Current Preview」をONにすると、常に最新のプレビューが表示されます。(通常はロード完了時のプレビューが表示)
+<img alt="preview" src="../img/tab-preview.gif" />
+<img alt="preview-setting" src="../img/tab-preview-setting.png" /></p>
+<hr />
+<h3 id="5">5. タブ設定</h3>
+<h4 id="_2">一般設定</h4>
+<ul>
+<li>[新しいウィンドウに開く] リンクの開く場所: <ul>
+<li>新しいウインドウ ・・・ 新しいウインドウにリンクを開きます。</li>
+<li>新しいタブ ・・・ 現在のウインドウの新しいタブにリンクを開きます。</li>
+</ul>
+</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>現在のタブを閉じたときのフォーカスの移動場所:<ul>
+<li>左側のタブ</li>
+<li>右側のタブ</li>
+<li>最後に選択したタブ</li>
+<li>リンク元／右側のタブ</li>
+<li>リンク元／左側のタブ</li>
+<li>最後に開いたタブ</li>
+<li>先頭のタブ</li>
+<li>最後のタブ</li>
+</ul>
+</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>最後のタブを閉じたとき、ウィンドウ自体は閉じない</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>タブを再読み込みする間隔 (秒) ・・・ オートリロード機能の間隔を設定できます。</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>TabBar Top Margin ・・・ タブバーの上部のマージンサイズを設定できます。</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>Remove Top Margin When Maximizing ・・・ 最大化時にタブバー上部のマージンを消去するかの設定ができます。</li>
+</ul>
+<hr />
+<h4 id="_3">新しいタブ</h4>
+<ul>
+<li>新しいタブを現在のタブの直後に開く</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>Open New Tabs At<ul>
+<li>Default Position</li>
+<li>Left End ・・・ 左端に開く</li>
+<li>Right End ・・・ 右端に開く</li>
+</ul>
+</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>強制的に新しいタブで開くリンクの種類<ul>
+<li>なし</li>
+<li>他サイトへのリンク</li>
+<li>すべてのリンク</li>
+</ul>
+</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>Open New Tab in Background ・・・ 新しいタブをバックグラウンドで開く</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>Opposite Mode ・・・ バックグラウンドタブを開くと、対面パネルのタブとして開かれます。</li>
+</ul>
+<hr />
+<h4 id="tab-preview">Tab Preview</h4>
+<ul>
+<li>
+<p>Enable Tab Preview ・・・ タブプレビューを有効にする。</p>
+</li>
+<li>
+<p>Delay Time ・・・ タブプレビュー表示までの遅延時間</p>
+</li>
+<li>
+<p>Width Height ・・・ タブプレビューのサイズ</p>
+</li>
+<li>
+<p>Slide Height ・・・ スライド方式のタブプレビューの高さ</p>
+</li>
+<li>
+<p>TabPreview Image Quality ・・・ 画像の品質</p>
+</li>
+<li>
+<p>Display Current Preview ・・・ 最新のプレビューを常に表示する</p>
+</li>
+</ul>
+<hr />
+<h4 id="_4">タブ表示</h4>
+<ul>
+<li>
+<p>多段表示にする</p>
+</li>
+<li>
+<p>バーの最大表示段数 ・・・ 多段タブの最大段数の設定</p>
+</li>
+<li>タブ幅</li>
+</ul>
+<hr />
+<h4 id="_5">タブバー上でのスクロール動作</h4>
+<ul>
+<li>
+<p>タブ選択をスクロール</p>
+</li>
+<li>
+<p>スクロール方向を反転</p>
+</li>
+<li>
+<p>Circulate Tab Selection ・・・ タブの選択を循環する</p>
+</li>
+</ul>
+<hr />
+<h4 id="_6">タブのフォーカス</h4>
+<ul>
+<li>
+<p>マウスオーバーでタブを選択</p>
+</li>
+<li>
+<p>現在のタブをクリックしたとき、直前にフォーカスしていたタブにフォーカスを移す</p>
+</li>
+</ul>
+<hr />
+<h4 id="_7">マウスクリック</h4>
+<ul>
+<li>
+<p>ダブルクリック</p>
+</li>
+<li>
+<p>中クリック</p>
+</li>
+<li>
+<p>Alt + クリック</p>
+</li>
+</ul>
+<hr />
+<h4 id="_8">[新しいタブ] ボタン</h4>
+<ul>
+<li>
+<p>Right Click</p>
+</li>
+<li>
+<p>中クリック</p>
+</li>
+<li>
+<p>Alt + クリック</p>
+</li>
+</ul>
+<hr />
+<h3 id="6">6.タブに対して可能な操作 (タブのコンテキストメニュー)</h3>
+<ul>
+<li>新しいタブ</li>
+<li>新しいプライベートタブ</li>
+<li>New Tor Tab ・・・ 新しいTorタブを開く</li>
+<li>新しいセッションタブ</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>Split Left ・・・ パネルを左側に分割</li>
+<li>Split Right ・・・ パネルを右側に分割</li>
+<li>Split Top  ・・・ パネルを上側に分割</li>
+<li>Split Bottom ・・・ パネルを下側に分割</li>
+<li>Split left tabs to left ・・・ 現在のタブより左のタブを左側のパネルに分割</li>
+<li>Split right tabs to right ・・・ 現在のタブより右のタブを右側のパネルに分割</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>Floating Panel ・・・ タブをフローティングパネルに分離</li>
+<li>Swap Position ・・・ パネルの位置を入れ替え</li>
+<li>Switch Direction ・・・ パネルの方向を入れ替え</li>
+<li>Align Horizontal ・・・ 水平方向に整列</li>
+<li>Align Vertical ・・・ 垂直方向に整列</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>タブの URL をコピー</li>
+<li>クリップボードの URL を開く</li>
+<li>Paste and Open ・・・　新しいタブでクリップボードのURLを開く(改行区切りで複数のURLを開くことも可能)</li>
+<li>Copy Tab Info ・・・ タブの情報(番号、URL、タイトル)をコピー</li>
+<li>Copy All Tab Titles ・・・ 全タブのタイトルをコピー</li>
+<li>Copy All Tab URLs ・・・ 全タブのURLコピー</li>
+<li>Copy All Tab Infos  ・・・ 全タブの情報(番号、URL、タイトル)をコピー</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>再読み込み</li>
+<li>キャッシュを破棄して再読み込み</li>
+<li>すべてのタブを再読み込み</li>
+<li>他のタブを再読み込み</li>
+<li>左側のタブをすべて再読み込み</li>
+<li>右側のタブをすべて再読み込み</li>
+<li>タブを再読み込みする間隔 ・・・一定間隔でオートリロード</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>タブを複製</li>
+<li>タブを固定 ・・・ タブを左端に寄せ、faviconのみ表示</li>
+<li>タブをミュート</li>
+<li>タブを凍結 ・・・ タブを保護、タブをロックの両方を実施</li>
+<li>タブを保護 ・・・ タブのクローズを不可とする</li>
+<li>タブをロック ・・・ 対象タブのリンクを全て新しいタブに開く</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>閉じる</li>
+<li>他のタブを閉じる</li>
+<li>左側のタブを閉じる</li>
+<li>右側のタブを閉じる</li>
+<li>すべてのタブを閉じる</li>
+<li>最後に閉じたタブを開く</li>
+<li>[最近閉じたタブ] をすべて開く</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>このページをブックマーク</li>
+<li>すべてのタブをブックマークに追加する</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>再読み込み</li>
+<li>キャッシュを破棄して再読み込み</li>
+</ul>
+<p><span/></p>
+<ul>
+<li>複数のタブを閉じる</li>
+<li>Close This Tree ・・・ ツリータブの階層ごとタブをクローズ</li>
+</ul>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../session-manager/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../session-manager/" class="btn btn-xs btn-link">
+        4. セッションマネージャ
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../video/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../video/" class="btn btn-xs btn-link">
+        2. 動画支援機能
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>

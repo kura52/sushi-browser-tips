@@ -1,0 +1,40 @@
+site_name: Sushi Browser Tips
+
+markdown_extensions:
+    - fontawesome_markdown
+
+extra_css:
+    - "css/org.css"
+
+theme: windmill
+
+pages:
+  - Table of Contents: index.md
+  - 1. Multi Panel: multi-panel.md
+  - 2. Video Support Function: video.md
+  - 3. Tab: tab.md
+  - 4. Session Manager: session-manager.md
+  - 5. Downloader: downloader.md
+  - 6. Privacy and Security: privacy-and-security.md
+  - 7. Search Engines: search-engine.md
+  - 8. Note: note.md
+  - 9. Portable Edition: portable-edtion.md
+  - 10. Context Menu: context-menu.md
+  - 11. Keyboard Shortcut: keyboard-shortcuts.md
+  - 12. Mouse Gesture: mouse-gesture.md
+  - 13. Chrome Extension: chrome-extension.md
+  - 14. Chrome Theme: chrome-theme.md
+  - 15. Data export/import: data-export-and-import.md
+  - 16. Various Settings: various-settings.md
+  - 17. Main Menu and Menubar: menu-and-bar.md
+  - 18. History: history.md
+  - 19. Top Page: top-page.md
+  - 20. Screenshot: screenshot.md
+  - 21. Find in Page: find-in-page.md
+  - 22. Display Functions, Binding Window: display-switching-and-bind-window.md
+  - 23. Bookmarks: bookmarks.md
+  - 24. Build-in Tool: build-in-tools.md
+  - 25. Video Conveter: video-converter.md
+  - 26. Automation: automation.md
+  - 27. Introduction of Web Technology: web-technology.md
+

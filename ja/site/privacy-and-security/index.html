@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>6. プライバシー、セキュリティ - Sushi Browser Tips</title>
+    <link href="../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/highlight.css">
+    <link href="../css/org.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u3068\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3", url: "#_top", children: [
+              {title: "1. Adblock", url: "#1-adblock" },
+              {title: "2. Tor\u30bf\u30d6", url: "#2-tor" },
+              {title: "3. Private, Sesison\u30bf\u30d6", url: "#3-private-sesison" },
+              {title: "4. VPN (Windows\u306e\u307f)", url: "#4-vpn-windows" },
+              {title: "5. \u305d\u306e\u4ed6\u306e\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u4fdd\u8b77\u6a5f\u80fd", url: "#5" },
+          ]},
+        ];
+
+    </script>
+    <script src="../js/base.js"></script> 
+<link rel="shortcut icon" href="../../myimg/logo.png">
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../search-engine/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../search-engine/" class="btn btn-xs btn-link">
+        7. 検索エンジン
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../downloader/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../downloader/" class="btn btn-xs btn-link">
+        5. ダウンローダ
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h2 id="_1">プライバシーとセキュリティ</h2>
+<p>Sushi BrowserではBrave Browserの機能を参考にプライバシーやセキュリティに関する機能を搭載しています。<br />
+Adblock、Tor・Private・Sessionタブ、VPN、HTTPS Everywhere、Tracking Protection、Fingerprinting Protectionといった機能があります。  </p>
+<hr />
+<h3 id="1-adblock">1. Adblock</h3>
+<p>ネイティブ実装の高速な広告ブロックです。メインメニューから、全ページ、タブごと、ドメインごとの有効無効を設定できます。
+<img alt="privacy-adblock" src="../img/privacy-adblock.png" /></p>
+<hr />
+<h3 id="2-tor">2. Torタブ</h3>
+<p>匿名通信システム「Tor」を利用したタブになります。高い匿名性での通信を可能とします。
+<img alt="privacy-tor" src="../img/privacy-tor.gif" /></p>
+<hr />
+<h3 id="3-private-sesison">3. Private, Sesisonタブ</h3>
+<p>他のブラウザと同様に、プライバシーを強化したPrivateタブや、別セッションでの操作が可能なSessionタブ機能があります。<br />
+Sessionタブはセッションごとにタブ上に番号が振られます。
+<img alt="privacy-private" src="../img/privacy-private.png" /></p>
+<hr />
+<h3 id="4-vpn-windows">4. VPN (Windowsのみ)</h3>
+<p>VPN Gateサービスを利用した、MS-SSTP VPNによるVPN接続を行います。<br />
+※擬似的なVPNではなく、Windows上に実際のVPNネットワーク接続を作成・接続しますので、ネットワークプロファイリングが作成されます。  </p>
+<p>「メインメニュー &gt; その他のツール &gt; Change VPN Mode」で、VPNサーバを選択すると、VPN通信が生成されます。
+<img alt="privacy-vpn" src="../img/privacy-vpn.gif" /></p>
+<hr />
+<h3 id="5">5. その他のプライバシー保護機能</h3>
+<ul>
+<li>HTTPS Everywhere ・・・ http通信を可能な限りhttps通信に置き換える機能</li>
+<li>Tracking Protection ・・・ Google Analyticsのようなトラッキングサービスからの保護機能</li>
+<li>スクリプトをブロック ・・・ Javascriptを無効にする機能（ほとんどのサイトが動作しなくなります）</li>
+<li>フィンガープリンティングの保護 ・・・ フィンガープリンティングによる情報読み込みを保護する機能
+<img alt="privacy-protection" src="../img/privacy-protection.png" /></li>
+</ul>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../search-engine/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../search-engine/" class="btn btn-xs btn-link">
+        7. 検索エンジン
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../downloader/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../downloader/" class="btn btn-xs btn-link">
+        5. ダウンローダ
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>

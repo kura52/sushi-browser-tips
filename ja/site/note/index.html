@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>8. Note - Sushi Browser Tips</title>
+    <link href="../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/highlight.css">
+    <link href="../css/org.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Note", url: "#_top", children: [
+              {title: "1. WYSIWYG\u5f62\u5f0f\u3067\u306e\u7de8\u96c6", url: "#1-wysiwyg" },
+              {title: "2. Markdown\u5f62\u5f0f\u3067\u306e\u7de8\u96c6", url: "#2-markdown" },
+              {title: "3. \u9078\u629e\u7bc4\u56f2\u306e\u30ce\u30fc\u30c8\u5316", url: "#3" },
+              {title: "4. \u30c6\u30ad\u30b9\u30c8\u5f62\u5f0f\u3078\u306e\u51fa\u529b\u6a5f\u80fd", url: "#4" },
+          ]},
+        ];
+
+    </script>
+    <script src="../js/base.js"></script> 
+<link rel="shortcut icon" href="../../myimg/logo.png">
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../portable-edtion/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../portable-edtion/" class="btn btn-xs btn-link">
+        9. ポータブル版
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../search-engine/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../search-engine/" class="btn btn-xs btn-link">
+        7. 検索エンジン
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h2 id="note">Note</h2>
+<p>トップページまたはサイドバーから呼び出せるノート(メモ)機能があります。<br />
+<a href="http://ui.toast.com/tui-editor/">TOAST UI Editor</a>を利用しており、WYSIWYG形式（見た目通りの編集）とMarkdown形式で編集可能です。</p>
+<hr />
+<h3 id="1-wysiwyg">1. WYSIWYG形式での編集</h3>
+<p>WYSIWYGモードは、OfficeのWordに近い形の入力形態になります。<br />
+webページや画像をコピーして貼り付けると、その書式が保持されて入力されます。<br />
+また、入力結果は都度保存されます。  </p>
+<p>エディター上部のツールボタンには以下の機能があります。</p>
+<ul>
+<li>
+<p>Hide Sidebar ・・・ サイドバーの表示非表示を切り替え</p>
+</li>
+<li>
+<p>見出し・・・文字サイズを見出し用に変更</p>
+</li>
+<li>太字</li>
+<li>斜体</li>
+<li>文字色変更</li>
+<li>
+<p>取り消し線 ・・・ 文字に取り消し線を付加</p>
+</li>
+<li>
+<p>ライン ・・・ 区切り線を挿入</p>
+</li>
+<li>
+<p>引用 ・・・ 引用の書体に変更</p>
+</li>
+<li>
+<p>番号なしリスト</p>
+</li>
+<li>順序付きリスト</li>
+<li>タスク ・・・ チェックボックスを追加</li>
+<li>インデントを増やす</li>
+<li>
+<p>インデントを減らす</p>
+</li>
+<li>
+<p>テーブル挿入</p>
+</li>
+<li>画像挿入</li>
+<li>
+<p>リンク挿入</p>
+</li>
+<li>
+<p>インラインコード</p>
+</li>
+<li>コードブロック挿入</li>
+</ul>
+<p><img alt="note-wysiwyg" src="../img/note-wysiwyg.png" /></p>
+<hr />
+<h3 id="2-markdown">2. Markdown形式での編集</h3>
+<p>Markdownモードは、Markdownでの入力とプレビューの表示機能があります。<br />
+エディター上のツールバーに以下の2ボタンが追加されます。
+- プレビューモード変更 ・・・ TabとVerticalのプレビューモードを切り替え
+- 行折りたたみ変更 ・・・ 行をウインドウの端で折りたたむか否かの設定を切り替え</p>
+<p>メモ帳のようにシンプルなテキストを作成したい場合は、プレビューモードをTab形式に切り替えると近い動作になります。  </p>
+<p>また、Markdownモードでは、以下の<a href="https://codemirror.net/demo/search.html">CodeMirrorのキーボード・ショートカット</a>が利用できます。</p>
+<ul>
+<li>Ctrl-F / Cmd-F ・・・ 検索開始</li>
+<li>Ctrl-G / Cmd-G ・・・ 次を検索</li>
+<li>Shift-Ctrl-G / Shift-Cmd-G ・・・ 前を検索</li>
+<li>Shift-Ctrl-F / Cmd-Option-F ・・・ 置換</li>
+<li>Shift-Ctrl-R / Shift-Cmd-Option-F ・・・ 全て置換</li>
+<li>Alt-G ・・・ N行目に移動</li>
+</ul>
+<p>その他、WIYSIWYGモードで貼り付けを行った後に、Markdownモードに切り替えると、htmlをmarkdownに変換した後のドキュメントが編集できます。<br />
+<img alt="note-markdown" src="../img/note-markdown.gif" /></p>
+<hr />
+<h3 id="3">3. 選択範囲のノート化</h3>
+<p>Webページ上で、テキストを選択し、右クリックメニューから「Add to Note」を選択すると、
+選択した内容がNoteに転送されてタブが開かれます。</p>
+<p><img alt="note-selection" src="../img/note-selection.gif" /></p>
+<hr />
+<h3 id="4">4. テキスト形式への出力機能</h3>
+<p>「Save」ボタンまたは「Save As Text」ボタンを押すことで、作成したノートをテキストファイルとして保存することができます。</p>
+<ul>
+<li>「Save」ボタンでは、Markdown形式でファイルが出力されます。  </li>
+<li>「Save As Text」ボタンではPlain Textでファイルが出力されます。</li>
+</ul>
+<p><img alt="note-save" src="../img/note-save.png" /></p>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../portable-edtion/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../portable-edtion/" class="btn btn-xs btn-link">
+        9. ポータブル版
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../search-engine/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../search-engine/" class="btn btn-xs btn-link">
+        7. 検索エンジン
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>

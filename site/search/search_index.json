@@ -1,0 +1,699 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Sushi Browser Tips\n\n\n\n\nSushi Browser has so many functions including multi-panel.\nThis Tips introduces how to use it.\n\n\n1. Multi Panel\n\nThe biggest feature of Sushi Browser is that it specializes in display and operation with Multi panel.\n\nIn addition to displaying multiple web pages side by side, there are various functions that you can do only on this browser.\n\n\n2. Video Support Function\n\nSushi Browser has support functions for such as video downloading and mouse operation,\nit can be used as a video playback browser.  \n\n\n3. Tab\n\nWith regard to the tab function too, Sushi Browser actively incorporates effective use and convenient functions for the screen. \n\nFor example, it incorporates a number of functions equivalent to the Firefox add-on Tab Mix Plus.  \n\n\n4. Session Manager\n\nThis browser has a session control system that preserves the condition of the window of browser and tab at regular interval and plays.\n\nThere is also a function for the recover of tab like a tab trush and a tab record.  \n\n\n5. Downloader\n\nWith download function using Aria 2c, it has 16 parallel download and resume function.\n\nYou can download links, images, and movies in the page at once by right clicking like Firefox's DownThemALL!. \n\n\n6. Privacy and Security\n\nAdblock, Tor \u00b7 Private \u00b7 Session tab, VPN, HTTPS Everywhere, Tracking Protection, Fingerprinting Protection are carried.  \n\n\n7. Search Engines\n\nIt features a powerful search function such as searching a selection range and simultaneous search with multiple search engines.  \n\n\n8. Note\n\nIt features a note (memo) function that can be used from Top Page or Sidebar.\n\nUsing TOAST UI Editor, it can be edited in WYSIWYG format (edit as seen) and Markdown format.\n\n\n9. Portable Edition\n\nIn the portable version, user data can be saved in the same folder as the executable file.\nTherefore you can easily carry the data to other PCs, or launch multiple portable version browsers in the same PC.  \n\n\n10. Context Menu\n\nIn addition to the right click menu provided by the other browsers, this browser implements the original various menus.\n\n\n11. Keyboard Shortcut\n\nIt is possible to set up the Keyboard Shortcut for over 100 functions.\n\n\n12. Mouse Gesture\n\nUnlike Chrome, you can use Mouse Gesture also on the administration page. \n\nAlso, the context menu can be used on Mac/Linux version as usual.\n\n\n13. Chrome Extension\n\nThis browser partially supports Chrome Extension. Also, some Firefox Addon (WebExtension) can be used.  \n\n\n14. Chrome Theme\n\nYou can apply chrome themes from the Chrome Web Store.\n\n\n15. Data export/import\n\nFrom \"Settings \n Data\" you can import data from other browser or various data export/import.\n\n\n16. Various Settings\n\nBasic settings and the configuration of unique items can be carried out from \"Settings \n General\". \n\n\n17. Main Menu and Menubar\n\nExplains the main menu and menu bar. \n\n\n18. History\n\nThis browser's history function, in addition to the usual history, it can record the number of page views and length of stay on a page.\n\n\n19. Top Page\n\nOn the top page, the links and speed dials to all the pages being managed and the latest history are displayed.\n\n\n20. Screenshot\n\nScreenshots of the whole page or of a selected area can be made.\n\n\n21. Find in Page\n\nIn \"Find Page\", in addition to the search functions of Chrome, it can carry out searches using OR or regular expressions. \n\nIt is also equipped with \"Search Highlight\" function. \n\n\n22. Display Functions, Binding Window\n  \n\nIt features various functions such as Fullscreen Mode and Always On Top, Fixing the Window to the Panel, Mobile Display (User Agent Change), AutoPagerize.\n\n\n23. Bookmarks\n\nYou can access bookmarks from Top Page, Menubar, Sidebar, Bookmark Bar.\n\n\n24. Build-in Tool\n\nTerminal, File Explorer, Video Player, Text editor are available.\n\n\n25. Video Converter\n\nWe have implemented a Video Converter function using HandBrake.\n\n\n26. Automation\n\nWith automatic operation assist functions such as iMacros and IDE,\nwe have implemented an API compatible with Puppeteer (automation in headless Chrome) API.\n\n\n27. Introduction of Web Technology\n\nThis browser makes use of wonderful web technologies, starting with the following.", 
+            "title": "Table of Contents"
+        }, 
+        {
+            "location": "/#sushi-browser-tips", 
+            "text": "Sushi Browser has so many functions including multi-panel.\nThis Tips introduces how to use it.  1. Multi Panel \nThe biggest feature of Sushi Browser is that it specializes in display and operation with Multi panel. \nIn addition to displaying multiple web pages side by side, there are various functions that you can do only on this browser.  2. Video Support Function \nSushi Browser has support functions for such as video downloading and mouse operation,\nit can be used as a video playback browser.    3. Tab \nWith regard to the tab function too, Sushi Browser actively incorporates effective use and convenient functions for the screen.  \nFor example, it incorporates a number of functions equivalent to the Firefox add-on Tab Mix Plus.    4. Session Manager \nThis browser has a session control system that preserves the condition of the window of browser and tab at regular interval and plays. \nThere is also a function for the recover of tab like a tab trush and a tab record.    5. Downloader \nWith download function using Aria 2c, it has 16 parallel download and resume function. \nYou can download links, images, and movies in the page at once by right clicking like Firefox's DownThemALL!.   6. Privacy and Security \nAdblock, Tor \u00b7 Private \u00b7 Session tab, VPN, HTTPS Everywhere, Tracking Protection, Fingerprinting Protection are carried.    7. Search Engines \nIt features a powerful search function such as searching a selection range and simultaneous search with multiple search engines.    8. Note \nIt features a note (memo) function that can be used from Top Page or Sidebar. \nUsing TOAST UI Editor, it can be edited in WYSIWYG format (edit as seen) and Markdown format.  9. Portable Edition \nIn the portable version, user data can be saved in the same folder as the executable file.\nTherefore you can easily carry the data to other PCs, or launch multiple portable version browsers in the same PC.    10. Context Menu \nIn addition to the right click menu provided by the other browsers, this browser implements the original various menus.  11. Keyboard Shortcut \nIt is possible to set up the Keyboard Shortcut for over 100 functions.  12. Mouse Gesture \nUnlike Chrome, you can use Mouse Gesture also on the administration page.  \nAlso, the context menu can be used on Mac/Linux version as usual.  13. Chrome Extension \nThis browser partially supports Chrome Extension. Also, some Firefox Addon (WebExtension) can be used.    14. Chrome Theme \nYou can apply chrome themes from the Chrome Web Store.  15. Data export/import \nFrom \"Settings   Data\" you can import data from other browser or various data export/import.  16. Various Settings \nBasic settings and the configuration of unique items can be carried out from \"Settings   General\".   17. Main Menu and Menubar \nExplains the main menu and menu bar.   18. History \nThis browser's history function, in addition to the usual history, it can record the number of page views and length of stay on a page.  19. Top Page \nOn the top page, the links and speed dials to all the pages being managed and the latest history are displayed.  20. Screenshot \nScreenshots of the whole page or of a selected area can be made.  21. Find in Page \nIn \"Find Page\", in addition to the search functions of Chrome, it can carry out searches using OR or regular expressions.  \nIt is also equipped with \"Search Highlight\" function.   22. Display Functions, Binding Window    \nIt features various functions such as Fullscreen Mode and Always On Top, Fixing the Window to the Panel, Mobile Display (User Agent Change), AutoPagerize.  23. Bookmarks \nYou can access bookmarks from Top Page, Menubar, Sidebar, Bookmark Bar.  24. Build-in Tool \nTerminal, File Explorer, Video Player, Text editor are available.  25. Video Converter \nWe have implemented a Video Converter function using HandBrake.  26. Automation \nWith automatic operation assist functions such as iMacros and IDE,\nwe have implemented an API compatible with Puppeteer (automation in headless Chrome) API.  27. Introduction of Web Technology \nThis browser makes use of wonderful web technologies, starting with the following.", 
+            "title": "Sushi Browser Tips"
+        }, 
+        {
+            "location": "/multi-panel/", 
+            "text": "Multi Panel\n\n\nThe biggest feature of Sushi Browser is that it specializes in display and operation with Multi panel.\n\nIn addition to displaying multiple web pages side by side, there are various functions that you can do only on this browser.\n\n\n\n\n1. Split Panel\n\n\nThe panel can be divided by dragging the tab towards the corner of the panel.\n\nIt can also be divided from the right click menu on the tab as well.\n\n\nThe divided panel is available for the size change as well.\n\n\n\n\n\n2. Display to the opposite panel\n\n\nBy \nmiddle clicking (pressing the mouse wheel)\n the link you can open the page in the link to the opposite panel. \n\n\nMiddle clicking\n with 1 panel automatically splits the display into 2 panels.   \n\n\nOf course, just like ordinary browsers, it can be configured to open a new browser.\n\n(You can switch it with \"Main Menu \n More Tools \n Open Opposite\" .)\u3000\n\n\nAlso, it changes to the motion where it opens background tab by holding down the centre click.\n\n\n\n\n\n3. Sync scrolling\n\n\nBy pressing the Sync scroll button, 1 page can be lined up like the pages of a book.\n\nMoreover, for a group of panels at this state, you can do actions such as scroll, page transition or close at the same time. \u3000\n\n\nAlso, right clicking the we page, you can choose from a menu for a 2-page spread that reads left to right or from right to left. (Commonly it's left to right) \n\n\n\n\nSync Scroll Left to Right\n\n\nSync Scroll Right to Left\n\n\n\n\n\n\n\n\n4. Side (bottom) bar\n\n\nYou can open favorite pages or pages from your history using the side bar.\n\nThe side bar can display web pages same as common panels. \u3000\u3000\n\nThe difference to common panels is even if you change the window size, the width remains fixed, and only this cannot be used with sync scrolling. \n\n\nBy pressing \"\n \" button on the Sidebar, you can set it to the hide mode.\n\n\n\n\n\n5. Panel movement\n\n\nFor general browser, by dragging and dropping the tab, you can move the tab.\n\nIn addition to moving the tab, this browser can be moved all the tabs of one panel to other panel or window by dragging or dropping the tab addition button.\n\n\n\n\n\n6. Floating panel mode\n\n\nBy selecting Floating Panel from the menu that is displayed by right clicking a tab,you can detach the panel that can be moved within the window. \n\nIt is a function that can be used for playing videos etc. while web browsing. \n\n\n\n\n\n7. Slim menu\n\n\nIn order to make the best use of the screen space, you can switch to one line menu.  \n\nUsing a display method that integrates the menu bar and tab bar, it achieves a menu with a mere 30px. \n\n\n\n\n\n\n8. Swapping and Aligning panels, Switch direction\n\n\n\n\nYou can switch the position of 2 panels.  \n\n\nPanels can be lined up with fixed widths horizontally or vertically. \n\n\nYou can realign vertically-lined panels horizontally or horizontally-lined panels vertically. \n\n\n\n\n\n\n\n\n9. Sync Scrolling, Link Dragging\n\n\n\n\nBy moving the mouse wheel, you can scroll 2 panels at the same time.\n\n\nBy dragging and dropping, You can open the link text to another panel.\n\n\n\n\n\n\n\n\n10. Simultaneous page transition\n\n\nBy using a regular expression, the page URL can be permutated and opened in a different page.\n\nIt can also open a normal page at the left and Google Translate at the right.   \n\n\nThe method of entering data is entering the regular expression for the URL at the left, and entering the text after permutation at the right. \n\nBy using () at the left makes it CAPTCHA, and can be used for the content after permutation using numerals. \n\n(It can be used as text which was encoded with $$ numbers.)   \n\n\nFor example, by making the left side \n(.+)\n and the right side \nhttps://www.google.com/search?q=$$1\n, the target URL can be Google-searched.", 
+            "title": "1. Multi Panel"
+        }, 
+        {
+            "location": "/multi-panel/#multi-panel", 
+            "text": "The biggest feature of Sushi Browser is that it specializes in display and operation with Multi panel. \nIn addition to displaying multiple web pages side by side, there are various functions that you can do only on this browser.", 
+            "title": "Multi Panel"
+        }, 
+        {
+            "location": "/multi-panel/#1-split-panel", 
+            "text": "The panel can be divided by dragging the tab towards the corner of the panel. \nIt can also be divided from the right click menu on the tab as well.  The divided panel is available for the size change as well.", 
+            "title": "1. Split Panel"
+        }, 
+        {
+            "location": "/multi-panel/#2-display-to-the-opposite-panel", 
+            "text": "By  middle clicking (pressing the mouse wheel)  the link you can open the page in the link to the opposite panel.   Middle clicking  with 1 panel automatically splits the display into 2 panels.     Of course, just like ordinary browsers, it can be configured to open a new browser. \n(You can switch it with \"Main Menu   More Tools   Open Opposite\" .)\u3000  Also, it changes to the motion where it opens background tab by holding down the centre click.", 
+            "title": "2. Display to the opposite panel"
+        }, 
+        {
+            "location": "/multi-panel/#3-sync-scrolling", 
+            "text": "By pressing the Sync scroll button, 1 page can be lined up like the pages of a book. \nMoreover, for a group of panels at this state, you can do actions such as scroll, page transition or close at the same time. \u3000  Also, right clicking the we page, you can choose from a menu for a 2-page spread that reads left to right or from right to left. (Commonly it's left to right)    Sync Scroll Left to Right  Sync Scroll Right to Left", 
+            "title": "3. Sync scrolling"
+        }, 
+        {
+            "location": "/multi-panel/#4-side-bottom-bar", 
+            "text": "You can open favorite pages or pages from your history using the side bar. \nThe side bar can display web pages same as common panels. \u3000\u3000 \nThe difference to common panels is even if you change the window size, the width remains fixed, and only this cannot be used with sync scrolling.   By pressing \"  \" button on the Sidebar, you can set it to the hide mode.", 
+            "title": "4. Side (bottom) bar"
+        }, 
+        {
+            "location": "/multi-panel/#5-panel-movement", 
+            "text": "For general browser, by dragging and dropping the tab, you can move the tab. \nIn addition to moving the tab, this browser can be moved all the tabs of one panel to other panel or window by dragging or dropping the tab addition button.", 
+            "title": "5. Panel movement"
+        }, 
+        {
+            "location": "/multi-panel/#6-floating-panel-mode", 
+            "text": "By selecting Floating Panel from the menu that is displayed by right clicking a tab,you can detach the panel that can be moved within the window.  \nIt is a function that can be used for playing videos etc. while web browsing.", 
+            "title": "6. Floating panel mode"
+        }, 
+        {
+            "location": "/multi-panel/#7-slim-menu", 
+            "text": "In order to make the best use of the screen space, you can switch to one line menu.   \nUsing a display method that integrates the menu bar and tab bar, it achieves a menu with a mere 30px.", 
+            "title": "7. Slim menu"
+        }, 
+        {
+            "location": "/multi-panel/#8-swapping-and-aligning-panels-switch-direction", 
+            "text": "You can switch the position of 2 panels.    Panels can be lined up with fixed widths horizontally or vertically.   You can realign vertically-lined panels horizontally or horizontally-lined panels vertically.", 
+            "title": "8. Swapping and Aligning panels, Switch direction"
+        }, 
+        {
+            "location": "/multi-panel/#9-sync-scrolling-link-dragging", 
+            "text": "By moving the mouse wheel, you can scroll 2 panels at the same time.  By dragging and dropping, You can open the link text to another panel.", 
+            "title": "9. Sync Scrolling, Link Dragging"
+        }, 
+        {
+            "location": "/multi-panel/#10-simultaneous-page-transition", 
+            "text": "By using a regular expression, the page URL can be permutated and opened in a different page. \nIt can also open a normal page at the left and Google Translate at the right.     The method of entering data is entering the regular expression for the URL at the left, and entering the text after permutation at the right.  \nBy using () at the left makes it CAPTCHA, and can be used for the content after permutation using numerals.  \n(It can be used as text which was encoded with $$ numbers.)     For example, by making the left side  (.+)  and the right side  https://www.google.com/search?q=$$1 , the target URL can be Google-searched.", 
+            "title": "10. Simultaneous page transition"
+        }, 
+        {
+            "location": "/video/", 
+            "text": "Video Support Function\n\n\nSushi Browser has support functions for such as video downloading and mouse operation,\nit can be used as a video playback browser.\n\n*For video download, please do no not violate the terms of the Web service and use at your own risk.\n\n\n\n\n1. Video download\n\n\n\u30fbVideo detection\n\nWhen a video is detected on the web page, the video icon on the tool bar turns red.\n\nWhen you click the video icon, it display the list and you can perform the following operations.\n\n (A) Click on the item on the list: The video starts downloading.\n\n (B) \n\uff1a Videos will be played with built-in player (using \nvideojs\n).\n\n (C) \n\uff1a At the same time as downloading the video, the video starts playing with the specified video player when 5% of video is download. (Recommended)\n\n (D) \n\uff1a Video starts playing on the external video player that being set on the setting page.\n\n (E) \n\uff1a Save the video with a new name.\n\n (F) \n\uff1a  Passe the data to the built-in video converter (using handbreak) in Sushi Browser After saving the video.\n\n (E) \n\uff1a Extract and save the audio data after saving the video.\n\n (G) Clipboard icon: Save the video URL to the clipboard.\n\n\n\nAlso, by right clicking on the video URL and select \"Save and Play Video\", it performs the same operation as (C). \n\n\n\n\n\n\n\u30fbVideo streaming (.m3u8)\n\nYou can download HLS streaming videos (.m3u8) by using the function of \nyoutube-dl\n.\n\nWhen you click the video icon, the list is displayed and you can perform the following operations.\n\n (A) Click on the item on the list: Downloading of the video starts by using youtube-dl and Terminal function.\n\n (B) \n\uff1a Video starts playing on the external video player set on setting page. \n\n (C) \n\uff1a Save the video with a new name.\n\n (D) Clipboard icon: Save the URL of the video on the clipboard.\n\n\n\n\n\u30fbBatch downloading (extracting videos with youtube-dl)\n\nYou can do butch download using Sushi Browser downloader function.\n\nBy enabling \"Attempt to find and download video (Using youtube-dl)\", you can detect and download videos from the target URL using youtube-dl.\n\n\n\n\n\n\n2. Pop-up window, panel\n\n\nIf you select the following from the context menu right clicked on the movie being played or the menu displayed after clicking the movie icon, the movie will be cut out as a popup window or panel.\n\n\n\n\nPlay Video in Popup Window\n\n\nPlay Video in Floating Panel\n\n\n\n\n\n\n\n\n3. Mouse, keyboard operation\n\n\nVarieties of control and setting are possible with mouse and keyboard like movie player onto the movies being played. \n\nMouse wheel control is assigned to Seek, Double-click is assigned to full screen mode as default.\n\nYou can also adjust volume by Ctrl + mouse wheel.  \n\n\nYou can set each operation with \"Settings\n Videos\".\n\n\n\n\n\n\n\n4. Mute, adjusting volume\n\n\nWhile you are watching videos, you can toggle mute by clicking Volume icon on the tab.\n\nMouse over onto the volume icon to show the volume bar, you can change the volume of the targeted tab up to \n800%\n.\n\n\n\n\n\n\n5. Sending a URL to an external player\n\n\nJust like in \"1. Video download\", the video's URL can be set to an external player that you have configured. \n\nIt can be configured with the \"Send URL to external media playe\" of \"ettings \n General\".   \n\n\n\n\n6. Voice extraction, video conversion\n\n\nJust like what is recorded in \"1. Video download\" it is possible to do voice extracrion or video conversion while downloading videos at the same time.\n\nIn addition, it can also run voice extraction on a local file from the main menu.", 
+            "title": "2. Video Support Function"
+        }, 
+        {
+            "location": "/video/#video-support-function", 
+            "text": "Sushi Browser has support functions for such as video downloading and mouse operation,\nit can be used as a video playback browser. \n*For video download, please do no not violate the terms of the Web service and use at your own risk.", 
+            "title": "Video Support Function"
+        }, 
+        {
+            "location": "/video/#1-video-download", 
+            "text": "\u30fbVideo detection \nWhen a video is detected on the web page, the video icon on the tool bar turns red. \nWhen you click the video icon, it display the list and you can perform the following operations. \n (A) Click on the item on the list: The video starts downloading. \n (B)  \uff1a Videos will be played with built-in player (using  videojs ). \n (C)  \uff1a At the same time as downloading the video, the video starts playing with the specified video player when 5% of video is download. (Recommended) \n (D)  \uff1a Video starts playing on the external video player that being set on the setting page. \n (E)  \uff1a Save the video with a new name. \n (F)  \uff1a  Passe the data to the built-in video converter (using handbreak) in Sushi Browser After saving the video. \n (E)  \uff1a Extract and save the audio data after saving the video. \n (G) Clipboard icon: Save the video URL to the clipboard.  \nAlso, by right clicking on the video URL and select \"Save and Play Video\", it performs the same operation as (C).     \u30fbVideo streaming (.m3u8) \nYou can download HLS streaming videos (.m3u8) by using the function of  youtube-dl . \nWhen you click the video icon, the list is displayed and you can perform the following operations. \n (A) Click on the item on the list: Downloading of the video starts by using youtube-dl and Terminal function. \n (B)  \uff1a Video starts playing on the external video player set on setting page.  \n (C)  \uff1a Save the video with a new name. \n (D) Clipboard icon: Save the URL of the video on the clipboard.   \u30fbBatch downloading (extracting videos with youtube-dl) \nYou can do butch download using Sushi Browser downloader function. \nBy enabling \"Attempt to find and download video (Using youtube-dl)\", you can detect and download videos from the target URL using youtube-dl.", 
+            "title": "1. Video download"
+        }, 
+        {
+            "location": "/video/#2-pop-up-window-panel", 
+            "text": "If you select the following from the context menu right clicked on the movie being played or the menu displayed after clicking the movie icon, the movie will be cut out as a popup window or panel.   Play Video in Popup Window  Play Video in Floating Panel", 
+            "title": "2. Pop-up window, panel"
+        }, 
+        {
+            "location": "/video/#3-mouse-keyboard-operation", 
+            "text": "Varieties of control and setting are possible with mouse and keyboard like movie player onto the movies being played.  \nMouse wheel control is assigned to Seek, Double-click is assigned to full screen mode as default. \nYou can also adjust volume by Ctrl + mouse wheel.    You can set each operation with \"Settings  Videos\".", 
+            "title": "3. Mouse, keyboard operation"
+        }, 
+        {
+            "location": "/video/#4-mute-adjusting-volume", 
+            "text": "While you are watching videos, you can toggle mute by clicking Volume icon on the tab. \nMouse over onto the volume icon to show the volume bar, you can change the volume of the targeted tab up to  800% .", 
+            "title": "4. Mute, adjusting volume"
+        }, 
+        {
+            "location": "/video/#5-sending-a-url-to-an-external-player", 
+            "text": "Just like in \"1. Video download\", the video's URL can be set to an external player that you have configured.  \nIt can be configured with the \"Send URL to external media playe\" of \"ettings   General\".", 
+            "title": "5. Sending a URL to an external player"
+        }, 
+        {
+            "location": "/video/#6-voice-extraction-video-conversion", 
+            "text": "Just like what is recorded in \"1. Video download\" it is possible to do voice extracrion or video conversion while downloading videos at the same time. \nIn addition, it can also run voice extraction on a local file from the main menu.", 
+            "title": "6. Voice extraction, video conversion"
+        }, 
+        {
+            "location": "/tab/", 
+            "text": "Tab\n\n\nWith regard to the tab function too, Sushi Browser actively incorporates effective use and convenient functions for the screen. \n\nFor example, it incorporates a number of functions equivalent to the Firefox add-on Tab Mix Plus.  \n\n\n\n\n1. Multi-row tab\n\n\nMultistep tabs can be used in the Sushi Browser. and ordinary tabs can be switched to Multi-row tabs from the main menu.\n\nAlso, the number of steps of the multistep tabs and the maximum and minimum tab width can be configured from \"Settings \n Tabs\".\n\n\n\n\n\n\n\n\n2. Vertical Tab, Tree Tab\n\n\nHorizontal tabs can be used in Sushi Browser. Vertical tabs can be displayed from the sidebar icon of the menu bar. \n\nIt's also possible to hide ordinary tabs when displaying vertical tabs.  \n\n\nAlso, tree tabs can also be used (layers in the order of which the tabs were opened). The relationship between panels are displayed by numbers.\n\n\n\n\n\n\n3. Tab selection using the mousewheel\n\n\nBy moving the mousewheel over the tab bar, tabs can be selected by scrolling. \n\nAlso, it is possible to set circulation type selection(when it is to the end, it moves to the first tab next)\n\n\n\n\n\n4. Tab Preview\n\n\nYou can use Tap Preview of Pop-up method and sliding method.(Same as Edge or Vivaldi)\n\nYou can switch ON/OFF from Main menu.\n\nAlso, you can set the size or the image quality of Tab Preview, display timing.  \n\n\nFor the Tab Preview of Pop-up method, you can also set below.  \n\n\n\u30fb When you make Width or Height empty, it set the size automatically from the aspect ratio. When you make both Width and Height empty, it is displayed in the actual size.    \n\n\n\u30fb When you set the \"Display Current Preview\" ON, the latest preview is always displayed. (it is displayed the preview of when completed the loading by default.)\n\n\n\n\n\n\n\n5. Tab setting\n\n\nGeneral Settings\n\n\n\n\nOpen links that open in a new window in (select one): \n\n\nNew window - opens a new browser window\n\n\nNew tab - creates a new tab in the current browser window\n\n\n\n\n\n\n\n\n\n\n\n\nWhen closing the current tab, focus (select one):\n\n\nAlmost the same as chrome\n\n\nLeft tab\n\n\nRight tab\n\n\nLast selected tab\n\n\nOpener/Right tab (the tab containing the link that opened this tab or the tab to the right)\n\n\nOpener/Left tab\n\n\nLast opened tab\n\n\nFirst tab\n\n\nLast tab\n\n\n\n\n\n\n\n\n\n\n\n\nDo not close window when closing the last tab (closing the last tab will also close the browser window)\n\n\n\n\n\n\n\n\nReload Tab Every (seconds) \u30fb\u30fb\u30fb You can set the interval of auto reload function.\n\n\n\n\n\n\n\n\nTabBar Top Margin \u30fb\u30fb\u30fb You can set the margin size on the top of the tab bar.\n\n\n\n\n\n\n\n\nRemove Top Margin When Maximizing \u30fb\u30fb\u30fb You can set whether to erase the margin on the top of the tab bar when it is maximized.\n\n\n\n\n\n\nNew Tab\n\n\n\n\nOpen New Tab next to current one\n\n\n\n\n\n\n\n\nOpen New Tabs At\n\n\nDefault Position\n\n\nLeft End\n\n\nRight End\n\n\n\n\n\n\n\n\n\n\n\n\nForce to open in new \n\n\nNothing\n\n\nLinks to other sites\n\n\nAll links\n\n\n\n\n\n\n\n\n\n\n\n\nOpen New Tab in Background\n\n\n\n\n\n\n\n\nOpposite Mode \u30fb\u30fb\u30fb if you open the background tab, it will be opened as tab of facing panel.\n\n\n\n\n\n\nTab Preview\n\n\n\n\n\n\nEnable Tab Preview\n\n\n\n\n\n\nDelay Time \u30fb\u30fb\u30fb Delay time until the Tab Preview indication\n\n\n\n\n\n\nWidth, Height \u30fb\u30fb\u30fb Size of Tab Preview\n\n\n\n\n\n\nSlide Height \u30fb\u30fb\u30fb Tab Preview high of the slide method\n\n\n\n\n\n\nTabPreview Image Quality\n\n\n\n\n\n\nDisplay Current Preview \u30fb\u30fb\u30fb Always displaying the latest preview\n\n\n\n\n\n\n\n\nShow on Tab\n\n\n\n\n\n\nMulti-row\n\n\n\n\n\n\nMax number of rows to display \u30fb\u30fb\u30fb Setting of the maximum step number of the multi-row tab.\n\n\n\n\nTab Width\n\n\n\n\n\n\nWhen scrolling over the tab-bar\n\n\n\n\n\n\nChange selected tab\n\n\n\n\n\n\nInverse scroll direction\n\n\n\n\n\n\nCirculate Tab Selection\n\n\n\n\n\n\n\n\nTab Focus\n\n\n\n\n\n\nSelect tab pointed for\n\n\n\n\n\n\nSwitch to last selected tab when clicking current one\n\n\n\n\n\n\n\n\nMouse Clicking\n\n\n\n\n\n\nDouble-click\n\n\n\n\n\n\nMiddle-click\n\n\n\n\n\n\nAlt-Click\n\n\n\n\n\n\n\n\nNew tab button\n\n\n\n\n\n\nRight Click\n\n\n\n\n\n\nMiddle-click\n\n\n\n\n\n\nAlt-Click\n\n\n\n\n\n\n\n\n6. Tab operation (tab context menu)\n\n\n\n\nNew Tab\n\n\nNew Private Tab\n\n\nNew Tor Tab\n\n\nNew Session Tab\n\n\n\n\n\n\n\n\nSplit Left\n\n\nSplit Right\n\n\nSplit Top\n\n\nSplit Bottom\n\n\nSplit left tabs to left \u30fb\u30fb\u30fb Spliting a tab left than a current tab into the left panel.\n\n\nSplit right tabs to right \u30fb\u30fb\u30fb Spliting a tab right than a current tab into the right panel.\n\n\n\n\n\n\n\n\nFloating Panel \u30fb\u30fb\u30fb Detaching a tab from a floating panel.\n\n\nSwap Position \u30fb\u30fb\u30fb Exchange the position of the panel.\n\n\nSwitch Direction \u30fb\u30fb\u30fb Exchange the direction of the panel.\n\n\nAlign Horizontal\n\n\nAlign Vertical\n\n\n\n\n\n\n\n\nCopies the tab's URL to the clipboard\n\n\nLoad URL from clipboard\n\n\nPaste and Open \u30fb\u30fb\u30fb Open an URL of the clipboard on a new tab. (It is possible to open multiple URL with a break of a new line.)\n\n\nCopy Tab Info \u30fb\u30fb\u30fb Copying a tab information(number, URL, title)\n\n\nCopy All Tab Titles \u30fb\u30fb\u30fb Copying all tab titles\n\n\nCopy All Tab URLs \u30fb\u30fb\u30fb Copying all tab URLs\n\n\nCopy All Tab Infos  \u30fb\u30fb\u30fb Copying all tab information(number, URL, title)\n\n\n\n\n\n\n\n\nReload\n\n\nClean Reload\n\n\nReloads all tabs\n\n\nReloads other tabs\n\n\nReloads left tabs\n\n\nReloads right tabs\n\n\nReload Tab Every\n\n\n\n\n\n\n\n\nDuplicate tab\n\n\nPin \u30fb\u30fb\u30fb Putting a tab to the left edge and displaying only favicon.\n\n\nMute Tab\n\n\nFreeze Tab \u30fb\u30fb\u30fb Protecting and Locking a tab.\n\n\nProtect Tab \u30fb\u30fb\u30fb Disallow the close of tab\n\n\nLock Tab \u30fb\u30fb\u30fb All the links on the tab become open in new tab\n\n\n\n\n\n\n\n\nClose\n\n\nClose other Tabs\n\n\nClose tabs to the left\n\n\nClose tabs to the right\n\n\nClose All Tabs\n\n\nReopen Last Closed Tab\n\n\nReopens all closed tabs\n\n\n\n\n\n\n\n\nBookmark Page\n\n\nBookmark all tabs\n\n\n\n\n\n\n\n\nReload\n\n\nClean Reload\n\n\n\n\n\n\n\n\nClose tabs\n\n\nClose This Tree \u30fb\u30fb\u30fb Closing a tab every hierarch of the tree tab.", 
+            "title": "3. Tab"
+        }, 
+        {
+            "location": "/tab/#tab", 
+            "text": "With regard to the tab function too, Sushi Browser actively incorporates effective use and convenient functions for the screen.  \nFor example, it incorporates a number of functions equivalent to the Firefox add-on Tab Mix Plus.", 
+            "title": "Tab"
+        }, 
+        {
+            "location": "/tab/#1-multi-row-tab", 
+            "text": "Multistep tabs can be used in the Sushi Browser. and ordinary tabs can be switched to Multi-row tabs from the main menu. \nAlso, the number of steps of the multistep tabs and the maximum and minimum tab width can be configured from \"Settings   Tabs\".", 
+            "title": "1. Multi-row tab"
+        }, 
+        {
+            "location": "/tab/#2-vertical-tab-tree-tab", 
+            "text": "Horizontal tabs can be used in Sushi Browser. Vertical tabs can be displayed from the sidebar icon of the menu bar.  \nIt's also possible to hide ordinary tabs when displaying vertical tabs.    Also, tree tabs can also be used (layers in the order of which the tabs were opened). The relationship between panels are displayed by numbers.", 
+            "title": "2. Vertical Tab, Tree Tab"
+        }, 
+        {
+            "location": "/tab/#3-tab-selection-using-the-mousewheel", 
+            "text": "By moving the mousewheel over the tab bar, tabs can be selected by scrolling.  \nAlso, it is possible to set circulation type selection(when it is to the end, it moves to the first tab next)", 
+            "title": "3. Tab selection using the mousewheel"
+        }, 
+        {
+            "location": "/tab/#4-tab-preview", 
+            "text": "You can use Tap Preview of Pop-up method and sliding method.(Same as Edge or Vivaldi) \nYou can switch ON/OFF from Main menu. \nAlso, you can set the size or the image quality of Tab Preview, display timing.    For the Tab Preview of Pop-up method, you can also set below.    \u30fb When you make Width or Height empty, it set the size automatically from the aspect ratio. When you make both Width and Height empty, it is displayed in the actual size.      \u30fb When you set the \"Display Current Preview\" ON, the latest preview is always displayed. (it is displayed the preview of when completed the loading by default.)", 
+            "title": "4. Tab Preview"
+        }, 
+        {
+            "location": "/tab/#5-tab-setting", 
+            "text": "", 
+            "title": "5. Tab setting"
+        }, 
+        {
+            "location": "/tab/#general-settings", 
+            "text": "Open links that open in a new window in (select one):   New window - opens a new browser window  New tab - creates a new tab in the current browser window       When closing the current tab, focus (select one):  Almost the same as chrome  Left tab  Right tab  Last selected tab  Opener/Right tab (the tab containing the link that opened this tab or the tab to the right)  Opener/Left tab  Last opened tab  First tab  Last tab       Do not close window when closing the last tab (closing the last tab will also close the browser window)     Reload Tab Every (seconds) \u30fb\u30fb\u30fb You can set the interval of auto reload function.     TabBar Top Margin \u30fb\u30fb\u30fb You can set the margin size on the top of the tab bar.     Remove Top Margin When Maximizing \u30fb\u30fb\u30fb You can set whether to erase the margin on the top of the tab bar when it is maximized.", 
+            "title": "General Settings"
+        }, 
+        {
+            "location": "/tab/#new-tab", 
+            "text": "Open New Tab next to current one     Open New Tabs At  Default Position  Left End  Right End       Force to open in new   Nothing  Links to other sites  All links       Open New Tab in Background     Opposite Mode \u30fb\u30fb\u30fb if you open the background tab, it will be opened as tab of facing panel.", 
+            "title": "New Tab"
+        }, 
+        {
+            "location": "/tab/#tab-preview", 
+            "text": "Enable Tab Preview    Delay Time \u30fb\u30fb\u30fb Delay time until the Tab Preview indication    Width, Height \u30fb\u30fb\u30fb Size of Tab Preview    Slide Height \u30fb\u30fb\u30fb Tab Preview high of the slide method    TabPreview Image Quality    Display Current Preview \u30fb\u30fb\u30fb Always displaying the latest preview", 
+            "title": "Tab Preview"
+        }, 
+        {
+            "location": "/tab/#show-on-tab", 
+            "text": "Multi-row    Max number of rows to display \u30fb\u30fb\u30fb Setting of the maximum step number of the multi-row tab.   Tab Width", 
+            "title": "Show on Tab"
+        }, 
+        {
+            "location": "/tab/#when-scrolling-over-the-tab-bar", 
+            "text": "Change selected tab    Inverse scroll direction    Circulate Tab Selection", 
+            "title": "When scrolling over the tab-bar"
+        }, 
+        {
+            "location": "/tab/#tab-focus", 
+            "text": "Select tab pointed for    Switch to last selected tab when clicking current one", 
+            "title": "Tab Focus"
+        }, 
+        {
+            "location": "/tab/#mouse-clicking", 
+            "text": "Double-click    Middle-click    Alt-Click", 
+            "title": "Mouse Clicking"
+        }, 
+        {
+            "location": "/tab/#new-tab-button", 
+            "text": "Right Click    Middle-click    Alt-Click", 
+            "title": "New tab button"
+        }, 
+        {
+            "location": "/tab/#6-tab-operation-tab-context-menu", 
+            "text": "New Tab  New Private Tab  New Tor Tab  New Session Tab     Split Left  Split Right  Split Top  Split Bottom  Split left tabs to left \u30fb\u30fb\u30fb Spliting a tab left than a current tab into the left panel.  Split right tabs to right \u30fb\u30fb\u30fb Spliting a tab right than a current tab into the right panel.     Floating Panel \u30fb\u30fb\u30fb Detaching a tab from a floating panel.  Swap Position \u30fb\u30fb\u30fb Exchange the position of the panel.  Switch Direction \u30fb\u30fb\u30fb Exchange the direction of the panel.  Align Horizontal  Align Vertical     Copies the tab's URL to the clipboard  Load URL from clipboard  Paste and Open \u30fb\u30fb\u30fb Open an URL of the clipboard on a new tab. (It is possible to open multiple URL with a break of a new line.)  Copy Tab Info \u30fb\u30fb\u30fb Copying a tab information(number, URL, title)  Copy All Tab Titles \u30fb\u30fb\u30fb Copying all tab titles  Copy All Tab URLs \u30fb\u30fb\u30fb Copying all tab URLs  Copy All Tab Infos  \u30fb\u30fb\u30fb Copying all tab information(number, URL, title)     Reload  Clean Reload  Reloads all tabs  Reloads other tabs  Reloads left tabs  Reloads right tabs  Reload Tab Every     Duplicate tab  Pin \u30fb\u30fb\u30fb Putting a tab to the left edge and displaying only favicon.  Mute Tab  Freeze Tab \u30fb\u30fb\u30fb Protecting and Locking a tab.  Protect Tab \u30fb\u30fb\u30fb Disallow the close of tab  Lock Tab \u30fb\u30fb\u30fb All the links on the tab become open in new tab     Close  Close other Tabs  Close tabs to the left  Close tabs to the right  Close All Tabs  Reopen Last Closed Tab  Reopens all closed tabs     Bookmark Page  Bookmark all tabs     Reload  Clean Reload     Close tabs  Close This Tree \u30fb\u30fb\u30fb Closing a tab every hierarch of the tree tab.", 
+            "title": "6. Tab operation (tab context menu)"
+        }, 
+        {
+            "location": "/session-manager/", 
+            "text": "Session Manager\n\n\nThis browser has a session control system that preserves the condition of the window of browser and tab at regular interval and plays.\n\nThere is also a function for the recover of tab like a tab trush and a tab record.  \n\n\n\n\n1. Restoration of windows and tab states by Session Manager\n\n\nIt is possible to open Session Manager from the icon \n of Menubar or Sidebar.\n\nThe session is composed by Window group and by tab group which is in the window. If there are over two windows, the tabs corresponding to each window will be preserved.\n\nIf you practice a right click at the preserved session, the following menu will be displayed and you can restore and operate the session.  \n\n\n\n\nOpen Link in New Window \u30fb\u30fb\u30fb Restore the session\n\n\nEdit \u30fb\u30fb\u30fb Rename the session\n\n\nDelete \u30fb\u30fb\u30fb Delete the session\n\n\n\n\n\n\n\n\n2. User saved session\n\n\nIf you click the \"Save Current Session\" at the Session Manager of Menubar, it is possible to preserve and restore the current session at the \"User Saved Sessions\".\n\n\n\n\n3. Setting of saving interval\n\n\nFrom \"Settings \n Data \n Minimum time interval between two state saves (seconds)\" you can set the session retention period.\n\nOnce the retention period passed and the session remains unchanged, saving processing wil be skipped.\n\n\n\n\n\n\n4. Tab Trash\n\n\nIt is possible to open the tab trash from the icon \n of Menubar or Sidebar. \n\nThe tabs at the time of the closing in the past are stored in the tab trash, and it is possible to restore the selected tab.\n\n\n\n\n\n\n5. Tab History\n\n\nIt is possible to open the tab history from the icon \n of Menubar or Sidebar.\n\nThe tab history hold all past tab transition history. Except the page active at the end, they are all in grey color.", 
+            "title": "4. Session Manager"
+        }, 
+        {
+            "location": "/session-manager/#session-manager", 
+            "text": "This browser has a session control system that preserves the condition of the window of browser and tab at regular interval and plays. \nThere is also a function for the recover of tab like a tab trush and a tab record.", 
+            "title": "Session Manager"
+        }, 
+        {
+            "location": "/session-manager/#1-restoration-of-windows-and-tab-states-by-session-manager", 
+            "text": "It is possible to open Session Manager from the icon   of Menubar or Sidebar. \nThe session is composed by Window group and by tab group which is in the window. If there are over two windows, the tabs corresponding to each window will be preserved. \nIf you practice a right click at the preserved session, the following menu will be displayed and you can restore and operate the session.     Open Link in New Window \u30fb\u30fb\u30fb Restore the session  Edit \u30fb\u30fb\u30fb Rename the session  Delete \u30fb\u30fb\u30fb Delete the session", 
+            "title": "1. Restoration of windows and tab states by Session Manager"
+        }, 
+        {
+            "location": "/session-manager/#2-user-saved-session", 
+            "text": "If you click the \"Save Current Session\" at the Session Manager of Menubar, it is possible to preserve and restore the current session at the \"User Saved Sessions\".", 
+            "title": "2. User saved session"
+        }, 
+        {
+            "location": "/session-manager/#3-setting-of-saving-interval", 
+            "text": "From \"Settings   Data   Minimum time interval between two state saves (seconds)\" you can set the session retention period. \nOnce the retention period passed and the session remains unchanged, saving processing wil be skipped.", 
+            "title": "3. Setting of saving interval"
+        }, 
+        {
+            "location": "/session-manager/#4-tab-trash", 
+            "text": "It is possible to open the tab trash from the icon   of Menubar or Sidebar.  \nThe tabs at the time of the closing in the past are stored in the tab trash, and it is possible to restore the selected tab.", 
+            "title": "4. Tab Trash"
+        }, 
+        {
+            "location": "/session-manager/#5-tab-history", 
+            "text": "It is possible to open the tab history from the icon   of Menubar or Sidebar. \nThe tab history hold all past tab transition history. Except the page active at the end, they are all in grey color.", 
+            "title": "5. Tab History"
+        }, 
+        {
+            "location": "/downloader/", 
+            "text": "Downloader\n\n\nIt features download function used express download library's Aria2c.\n\nIt has systems of the maximum 16 parallel downloads and resume.\n\nIn addition, like Firefox add-on DownThemAll!, by clicking the right, you can altogether download link, image and video.\n\nYou can also bulk download by choosing multiple URLs from the Downloader page.  \n\n\n\n\n1. Parallel download\n\n\nYou can set the number of parallel downloads by \"Downloads per server\" on Downloader page.\n\n\n\n\n\n2. Download on the page\uff08Download All\uff09\n\n\nBy right-clicking on the page and select \"Download All\", you can do bulk download links and media files on the page.\n\n\n\n\nAlso, by selecting text and then select \"Download Selection\", you can bulk download links within the selected range.\n\n\n\n\n3. Bulk Download\n\n\nAt the dialog which starts after push the New DL button in the downloader page (chrome://download/),\nit is possible to execute a sequential number download using a deployment of the wild card and to add the date information to a file name and so on.", 
+            "title": "5. Downloader"
+        }, 
+        {
+            "location": "/downloader/#downloader", 
+            "text": "It features download function used express download library's Aria2c. \nIt has systems of the maximum 16 parallel downloads and resume. \nIn addition, like Firefox add-on DownThemAll!, by clicking the right, you can altogether download link, image and video. \nYou can also bulk download by choosing multiple URLs from the Downloader page.", 
+            "title": "Downloader"
+        }, 
+        {
+            "location": "/downloader/#1-parallel-download", 
+            "text": "You can set the number of parallel downloads by \"Downloads per server\" on Downloader page.", 
+            "title": "1. Parallel download"
+        }, 
+        {
+            "location": "/downloader/#2-download-on-the-pagedownload-all", 
+            "text": "By right-clicking on the page and select \"Download All\", you can do bulk download links and media files on the page.   Also, by selecting text and then select \"Download Selection\", you can bulk download links within the selected range.", 
+            "title": "2. Download on the page\uff08Download All\uff09"
+        }, 
+        {
+            "location": "/downloader/#3-bulk-download", 
+            "text": "At the dialog which starts after push the New DL button in the downloader page (chrome://download/),\nit is possible to execute a sequential number download using a deployment of the wild card and to add the date information to a file name and so on.", 
+            "title": "3. Bulk Download"
+        }, 
+        {
+            "location": "/privacy-and-security/", 
+            "text": "Privacy and Security\n\n\nSushi Browser carries functions regarding the privacy and security refering to the fonction of Brave Browser.\n\nAdblock, Tor \u00b7 Private \u00b7 Session tab, VPN, HTTPS Everywhere, Tracking Protection, Fingerprinting Protection are carried.  \n\n\n\n\n1. Adblock\n\n\nEquipped with a native-implemented high speed advertisement block.\nIt is possible to set up the validity or invalidity in all page, each tab and each domain from Main menu.\n\n\n\n\n\n\n2. Tor Tab\n\n\nThis will be a tab where it uses anonymous networking system \u201cTor\u201d. It makes network with high anonymity possible.\n\n\n\n\n\n\n3. Private, Sesison tabs\n\n\nThese have a Private tab that strengthens its privacy and a session tab function where it makes the operation in separate sessions possible as other browsers.\n\nIn Session tabs, a tab gets a series number on the tab in each session.\n\n\n\n\n\n4. VPN (Windows only)\n\n\nIt does VPN search with MS-SSTP VPN by using VPN Gate service.\n\n* Since it creates and connects an actual VPN network connection on Windows, not a pseudo VPN, and network profiling is created.    \n\n\nWhen the \"VPN server\" is selected in \"Main Menu \n More Tools \n Change VPN Mode\", VPN communication is generated.\n\n\n\n\n\n\n5. Other Privacy Protection Functions\n\n\n\n\nHTTPS Everywhere \u30fb\u30fb\u30fb Function to replace http communication with https communication as much as possible\n\n\nTracking Protection \u30fb\u30fb\u30fb Protection function from tracking services such as Google Analytics\n\n\nBlock Scripts \u30fb\u30fb\u30fb Function to disable Javascript (will break many sites)\n\n\nFingerprinting Protection  \u30fb\u30fb\u30fb Function to protect information reading by fingerprinting", 
+            "title": "6. Privacy and Security"
+        }, 
+        {
+            "location": "/privacy-and-security/#privacy-and-security", 
+            "text": "Sushi Browser carries functions regarding the privacy and security refering to the fonction of Brave Browser. \nAdblock, Tor \u00b7 Private \u00b7 Session tab, VPN, HTTPS Everywhere, Tracking Protection, Fingerprinting Protection are carried.", 
+            "title": "Privacy and Security"
+        }, 
+        {
+            "location": "/privacy-and-security/#1-adblock", 
+            "text": "Equipped with a native-implemented high speed advertisement block.\nIt is possible to set up the validity or invalidity in all page, each tab and each domain from Main menu.", 
+            "title": "1. Adblock"
+        }, 
+        {
+            "location": "/privacy-and-security/#2-tor-tab", 
+            "text": "This will be a tab where it uses anonymous networking system \u201cTor\u201d. It makes network with high anonymity possible.", 
+            "title": "2. Tor Tab"
+        }, 
+        {
+            "location": "/privacy-and-security/#3-private-sesison-tabs", 
+            "text": "These have a Private tab that strengthens its privacy and a session tab function where it makes the operation in separate sessions possible as other browsers. \nIn Session tabs, a tab gets a series number on the tab in each session.", 
+            "title": "3. Private, Sesison tabs"
+        }, 
+        {
+            "location": "/privacy-and-security/#4-vpn-windows-only", 
+            "text": "It does VPN search with MS-SSTP VPN by using VPN Gate service. \n* Since it creates and connects an actual VPN network connection on Windows, not a pseudo VPN, and network profiling is created.      When the \"VPN server\" is selected in \"Main Menu   More Tools   Change VPN Mode\", VPN communication is generated.", 
+            "title": "4. VPN (Windows only)"
+        }, 
+        {
+            "location": "/privacy-and-security/#5-other-privacy-protection-functions", 
+            "text": "HTTPS Everywhere \u30fb\u30fb\u30fb Function to replace http communication with https communication as much as possible  Tracking Protection \u30fb\u30fb\u30fb Protection function from tracking services such as Google Analytics  Block Scripts \u30fb\u30fb\u30fb Function to disable Javascript (will break many sites)  Fingerprinting Protection  \u30fb\u30fb\u30fb Function to protect information reading by fingerprinting", 
+            "title": "5. Other Privacy Protection Functions"
+        }, 
+        {
+            "location": "/search-engine/", 
+            "text": "Search Engines\n\n\nIt features a powerful search function such as searching a selection range and simultaneous search with multiple search engines.  \n\n\n\n\n1. Search Engine Setting (Shortcut Search)\n\n\nYou can add, delete search engines from \"Settings \n Search \n Search Engine\", and change the default search engine.\n\nIn addition, you can set shortcut keys that can be used for searching.\n\n\n\n\n\n\n2. Search selected range, link text\n\n\nBy right-clicking the selected text or link text, you can search for the target text.\n\nYou can also select whether to open in the current panel (c) or open in the opposite panel (o), and you can also set whether to display from the setting page.\n\n\n\n\n\n\n3. Simultaneous multiple searches\n\n\nThis browser has a \n\"multiple simultaneous search function\"\n, not found in other browsers.\n\n\nYou can select a combination of search engines and display methods via \"Settings \n Search \n Multi Search\".\n\nThe display method has the following patterns.\n\n\n\n\nopen a panel \u30fb\u30fb\u30fb Open all tabs in one panel.\n\n\nopen 2 panels \u30fb\u30fb\u30fb Open the tabs alternately for the two panels.\n\n\nopen to new window \u30fb\u30fb\u30fb Open all tabs in one panel of the new window.\n\n\na row in new window \u30fb\u30fb\u30fb For a new window, split the panel vertically for each tab and display it on the one rows panel.\n\n\n2 rows in new window\n\n\n3 rows in new window\n\n\n\n\n\n\n\n\n\n\n4. Search address bar\n\n\nSuggestions by search engines and suggestions by history are available in the address bar. In addition to the title and the URL, the suggestion shows the number of PVs and the past stay time.\n\nAlso, you can change the search engine to be used from the default by entering the shortcut key.\n\n\nFrom the \"Settings \n General \n Autocomplete data\", you can change the order of the suggestion, the number of cases by the following.  \n\n\n\n\nOrder of AutoComplete \u30fb\u30fb\u30fb \"Suggestion by search engine \u2192 History\" or \"history \u2192 suggestion by search engine\"\n\n\nNumber of Suggestions \u30fb\u30fb\u30fb Set the number of \"Suggest by search engine\" display\n\n\nNumber of Histories \u30fb\u30fb\u30fb Set the number of suggestion by \"history\" to be displayed\n\n\nSort history in descending order of PV \u30fb\u30fb\u30fb Arrange the order of sorting by \"history\" in ascending order of page views (usually in the order of newest date)", 
+            "title": "7. Search Engines"
+        }, 
+        {
+            "location": "/search-engine/#search-engines", 
+            "text": "It features a powerful search function such as searching a selection range and simultaneous search with multiple search engines.", 
+            "title": "Search Engines"
+        }, 
+        {
+            "location": "/search-engine/#1-search-engine-setting-shortcut-search", 
+            "text": "You can add, delete search engines from \"Settings   Search   Search Engine\", and change the default search engine. \nIn addition, you can set shortcut keys that can be used for searching.", 
+            "title": "1. Search Engine Setting (Shortcut Search)"
+        }, 
+        {
+            "location": "/search-engine/#2-search-selected-range-link-text", 
+            "text": "By right-clicking the selected text or link text, you can search for the target text. \nYou can also select whether to open in the current panel (c) or open in the opposite panel (o), and you can also set whether to display from the setting page.", 
+            "title": "2. Search selected range, link text"
+        }, 
+        {
+            "location": "/search-engine/#3-simultaneous-multiple-searches", 
+            "text": "This browser has a  \"multiple simultaneous search function\" , not found in other browsers.  You can select a combination of search engines and display methods via \"Settings   Search   Multi Search\". \nThe display method has the following patterns.   open a panel \u30fb\u30fb\u30fb Open all tabs in one panel.  open 2 panels \u30fb\u30fb\u30fb Open the tabs alternately for the two panels.  open to new window \u30fb\u30fb\u30fb Open all tabs in one panel of the new window.  a row in new window \u30fb\u30fb\u30fb For a new window, split the panel vertically for each tab and display it on the one rows panel.  2 rows in new window  3 rows in new window", 
+            "title": "3. Simultaneous multiple searches"
+        }, 
+        {
+            "location": "/search-engine/#4-search-address-bar", 
+            "text": "Suggestions by search engines and suggestions by history are available in the address bar. In addition to the title and the URL, the suggestion shows the number of PVs and the past stay time. \nAlso, you can change the search engine to be used from the default by entering the shortcut key.  From the \"Settings   General   Autocomplete data\", you can change the order of the suggestion, the number of cases by the following.     Order of AutoComplete \u30fb\u30fb\u30fb \"Suggestion by search engine \u2192 History\" or \"history \u2192 suggestion by search engine\"  Number of Suggestions \u30fb\u30fb\u30fb Set the number of \"Suggest by search engine\" display  Number of Histories \u30fb\u30fb\u30fb Set the number of suggestion by \"history\" to be displayed  Sort history in descending order of PV \u30fb\u30fb\u30fb Arrange the order of sorting by \"history\" in ascending order of page views (usually in the order of newest date)", 
+            "title": "4. Search address bar"
+        }, 
+        {
+            "location": "/note/", 
+            "text": "Note\n\n\nIt features a note (memo) function that can be used from Top Page or Sidebar.\n\nUsing \nTOAST UI Editor\n, it can be edited in WYSIWYG format (edit as seen) and Markdown format.\n\n\n\n\n1. Editing in WYSIWYG format\n\n\nWYSIWYG mode is an input form close to Office's Word.\n\nWhen copying and pasting a web page or an image, the format is retained as it\u2019s entered.\n\nInput results are saved each time.  \n\n\nThe tool button at the top of the editor has the following functions. \n\n\n\n\n\n\nHide Sidebar\n\n\n\n\n\n\nHeadings\u30fb\u30fb\u30fb Change the font size for heading\n\n\n\n\nBold\n\n\nItalic\n\n\nText color\n\n\n\n\nStrike \u30fb\u30fb\u30fb Add strike through to character\n\n\n\n\n\n\nLine \u30fb\u30fb\u30fb Insert divider line\n\n\n\n\n\n\nBlockquote \u30fb\u30fb\u30fb Changed to quotation typeface\n\n\n\n\n\n\nUnordered list\n\n\n\n\nOrdered list\n\n\nTask \u30fb\u30fb\u30fb Add checkbox\n\n\nOutdent\n\n\n\n\nIndent\n\n\n\n\n\n\nInsert table\n\n\n\n\nInsert image\n\n\n\n\nInsert link\n\n\n\n\n\n\nCode\n\n\n\n\nInsert CodeBlock\n\n\n\n\n\n\n\n\n2. Edit in Markdown format\n\n\nMarkdown mode has input function and preview display function in markdown.\n\nThe following 2 buttons are added to the toolbar on the editor.\n- Change Markdown Preview Style \u30fb\u30fb\u30fb Switch Tab and Vertical preview modes\n- Switch Line Wrapping \u30fb\u30fb\u30fb Toggle setting of whether to collapse rows at the end of the window\n\n\nSwitching to preview mode via the tab enable you to create simple text like that in a notepad.   \n\n\nIn markdown mode, the following keyboard shortcut can be available.  \n\n\n\n\nCtrl-F / Cmd-F \u30fb\u30fb\u30fb Start searching\n\n\nCtrl-G / Cmd-G \u30fb\u30fb\u30fb Find next\n\n\nShift-Ctrl-G / Shift-Cmd-G \u30fb\u30fb\u30fb Find previous\n\n\nShift-Ctrl-F / Cmd-Option-F \u30fb\u30fb\u30fb Replace\n\n\nShift-Ctrl-R / Shift-Cmd-Option-F \u30fb\u30fb\u30fb Replace all\n\n\nAlt-G \u30fb\u30fb\u30fb Jump to line\n\n\n\n\nIn addition, switching to markdown mode allows you to edit the document after converting html and after pasting in WIYSIWYG mode.\n\n\n\n\n\n\n3. Make a note of the selected range\n\n\nIf you select text on the webpage and select \"Add to Note\" from the right-click menu,\nthen the selected content is transferred to the notepad and the tab is opened.\n\n\n\n\n\n4. Output function to text format\n\n\nBy pressing the \"Save\" button or \"Save As Text\" button, you can save the note you created as a text file.  \n\n\n\n\nWith the \"Save\" button, the file is output in Markdown format.  \n\n\nWith the \"Save As Text\" button, file is output in Plain Text format.", 
+            "title": "8. Note"
+        }, 
+        {
+            "location": "/note/#note", 
+            "text": "It features a note (memo) function that can be used from Top Page or Sidebar. \nUsing  TOAST UI Editor , it can be edited in WYSIWYG format (edit as seen) and Markdown format.", 
+            "title": "Note"
+        }, 
+        {
+            "location": "/note/#1-editing-in-wysiwyg-format", 
+            "text": "WYSIWYG mode is an input form close to Office's Word. \nWhen copying and pasting a web page or an image, the format is retained as it\u2019s entered. \nInput results are saved each time.    The tool button at the top of the editor has the following functions.     Hide Sidebar    Headings\u30fb\u30fb\u30fb Change the font size for heading   Bold  Italic  Text color   Strike \u30fb\u30fb\u30fb Add strike through to character    Line \u30fb\u30fb\u30fb Insert divider line    Blockquote \u30fb\u30fb\u30fb Changed to quotation typeface    Unordered list   Ordered list  Task \u30fb\u30fb\u30fb Add checkbox  Outdent   Indent    Insert table   Insert image   Insert link    Code   Insert CodeBlock", 
+            "title": "1. Editing in WYSIWYG format"
+        }, 
+        {
+            "location": "/note/#2-edit-in-markdown-format", 
+            "text": "Markdown mode has input function and preview display function in markdown. \nThe following 2 buttons are added to the toolbar on the editor.\n- Change Markdown Preview Style \u30fb\u30fb\u30fb Switch Tab and Vertical preview modes\n- Switch Line Wrapping \u30fb\u30fb\u30fb Toggle setting of whether to collapse rows at the end of the window  Switching to preview mode via the tab enable you to create simple text like that in a notepad.     In markdown mode, the following keyboard shortcut can be available.     Ctrl-F / Cmd-F \u30fb\u30fb\u30fb Start searching  Ctrl-G / Cmd-G \u30fb\u30fb\u30fb Find next  Shift-Ctrl-G / Shift-Cmd-G \u30fb\u30fb\u30fb Find previous  Shift-Ctrl-F / Cmd-Option-F \u30fb\u30fb\u30fb Replace  Shift-Ctrl-R / Shift-Cmd-Option-F \u30fb\u30fb\u30fb Replace all  Alt-G \u30fb\u30fb\u30fb Jump to line   In addition, switching to markdown mode allows you to edit the document after converting html and after pasting in WIYSIWYG mode.", 
+            "title": "2. Edit in Markdown format"
+        }, 
+        {
+            "location": "/note/#3-make-a-note-of-the-selected-range", 
+            "text": "If you select text on the webpage and select \"Add to Note\" from the right-click menu,\nthen the selected content is transferred to the notepad and the tab is opened.", 
+            "title": "3. Make a note of the selected range"
+        }, 
+        {
+            "location": "/note/#4-output-function-to-text-format", 
+            "text": "By pressing the \"Save\" button or \"Save As Text\" button, you can save the note you created as a text file.     With the \"Save\" button, the file is output in Markdown format.    With the \"Save As Text\" button, file is output in Plain Text format.", 
+            "title": "4. Output function to text format"
+        }, 
+        {
+            "location": "/portable-edtion/", 
+            "text": "Portable Edition\n\n\nWith Sushi Browser, you can choose between installation version and portable version.\n\nIn the portable version, user data can be saved in the same folder as the executable file.\nTherefore you can easily carry the data to other PCs, or launch multiple portable version browsers in the same PC.  \n\n\n\n\n1. Destination to save the setting file\n\n\nWhen starting the portable version, the following message will be displayed. \n\nBelow is the message when unpacking to \"C:\\Users\\[User Name]\\Downloads\" on Windows.\u3000\n\n\n\n\nIt is launched in Portable version. Whether User Data is stored in\nPortable path(C:\\Users\\[User Name]\\Downloads\\sushi-browser-portable) or\nDefault path(C:\\Users\\[User Name]\\AppData\\Roaming)\n\n\n\n\nBy pressing the Portable button, the user data is saved in the same folder as the executable file.\n\nBy pressing the Default button, the user data is saved in the same folder as the installation version.\n\n\nAlso, with the Portable version, each data can be kept in the following holders.  \n\n\n\n\ndata/resource/extension \u30fb\u30fb\u30fb The Chrome Extension / Theme are saved.\n\n\ndb/resource \u30fb\u30fb\u30fb The user data is saved\n\n\nautomation.db - Data for automation\n\n\nautomationOrder.db - Data for automation\n\n\ndownload.db - Data for download\n\n\ndownloader.db - Data for download\n\n\nfavicon.db - Favicon data\n\n\nfavorite.db - Bookmark data\n\n\nhistory2.db - History data\n\n\nimage.db - Image data for speed dial\n\n\nnote.db - Note data\n\n\nsavedState.db - Session data\n\n\nsearchEngine.db - Search engine settings\n\n\nstate.db - General settings\n\n\nsyncReplace.db - Synchronous page transition data\n\n\ntabState.db - Tab history data\n\n\ntoken.db - Sync data\n\n\nvisit.db - History data\n\n\nwindowState.db - Session data\n\n\n\n\n\n\n\n\n\n\n\n\n2. Update (Windows only)\n\n\nWhen the next version of browser is found, the version-up dialog can be shown.\n\nClick \"When you run update.cmd, automatic update will be done.(Experimental)\" of the dialog message, and carry out the update.cmd, the automatic update will be done.", 
+            "title": "9. Portable Edition"
+        }, 
+        {
+            "location": "/portable-edtion/#portable-edition", 
+            "text": "With Sushi Browser, you can choose between installation version and portable version. \nIn the portable version, user data can be saved in the same folder as the executable file.\nTherefore you can easily carry the data to other PCs, or launch multiple portable version browsers in the same PC.", 
+            "title": "Portable Edition"
+        }, 
+        {
+            "location": "/portable-edtion/#1-destination-to-save-the-setting-file", 
+            "text": "When starting the portable version, the following message will be displayed.  \nBelow is the message when unpacking to \"C:\\Users\\[User Name]\\Downloads\" on Windows.\u3000   It is launched in Portable version. Whether User Data is stored in\nPortable path(C:\\Users\\[User Name]\\Downloads\\sushi-browser-portable) or\nDefault path(C:\\Users\\[User Name]\\AppData\\Roaming)   By pressing the Portable button, the user data is saved in the same folder as the executable file. \nBy pressing the Default button, the user data is saved in the same folder as the installation version.  Also, with the Portable version, each data can be kept in the following holders.     data/resource/extension \u30fb\u30fb\u30fb The Chrome Extension / Theme are saved.  db/resource \u30fb\u30fb\u30fb The user data is saved  automation.db - Data for automation  automationOrder.db - Data for automation  download.db - Data for download  downloader.db - Data for download  favicon.db - Favicon data  favorite.db - Bookmark data  history2.db - History data  image.db - Image data for speed dial  note.db - Note data  savedState.db - Session data  searchEngine.db - Search engine settings  state.db - General settings  syncReplace.db - Synchronous page transition data  tabState.db - Tab history data  token.db - Sync data  visit.db - History data  windowState.db - Session data", 
+            "title": "1. Destination to save the setting file"
+        }, 
+        {
+            "location": "/portable-edtion/#2-update-windows-only", 
+            "text": "When the next version of browser is found, the version-up dialog can be shown. \nClick \"When you run update.cmd, automatic update will be done.(Experimental)\" of the dialog message, and carry out the update.cmd, the automatic update will be done.", 
+            "title": "2. Update (Windows only)"
+        }, 
+        {
+            "location": "/context-menu/", 
+            "text": "Context Menu\n\n\nIn addition to the right click menu provided by the other browsers, this browser implements the original various menus.\n\n\n\n\n1. Send to UR\n\n\nYou can edit the URL of the link in \"Settings \n Context Menu \n Send to URL\" and send it or pass it to an external application.  \n\n\nYou can decide the destination from \"Send Type\".\n\n\n\n\nNew Tab \u30fb\u30fb\u30fb Open the URL set in the new tab.\n\n\nNew Opposite Tab \u30fb\u30fb\u30fb Open the URL set in the opposite panel.\n\n\nCommand \u30fb\u30fb\u30fb Execute the set command\n\n\nCommand in Terminal \u30fb\u30fb\u30fb Execute the set command in the terminal\n\n\n\n\nYou can set the URL or command to send from \"Send URL / Command\". The %s part will be replaced to the actual URL.\n\n\n\n\n\n2. Settings\n\n\nYou can set the display presence to right click menu from \"Settings \n Context Menu \n Main Context Menu\".\n\n\n\n\nBack\n\n\nForward\n\n\nReload\n\n\n\n\n\n\n\n\nSearch for \"\" \u30fb\u30fb\u30fb Search the selected text or link text\n\n\n\n\n\n\n\n\nCopy Links \u30fb\u30fb\u30fb Copy all selected links\n\n\nOpen Links in New Tabs \u30fb\u30fb\u30fb Open all the selected links in a new tab\n\n\nDownload Selection \u30fb\u30fb\u30fb Pass the selected link to the downloader\n\n\nSave Page as\u2026\n\n\nBookmark Page\n\n\n\n\n\n\n\n\nPrint\u2026\n\n\n\n\n\n\n\n\nTranslate this page \u30fb\u30fb\u30fb \u73feOpen the current page on opposite panel with Google Translate\n\n\nDownload All \u30fb\u30fb\u30fb Pass the link / media in the page to the downloader\n\n\n\n\n\n\n\n\nSync Scroll Left to Right\n\n\nSync Scroll Right to Left\n\n\n\n\n\n\n\n\nView Page Source\n\n\nInspect Element\n\n\n\n\n\n\n\n\nOpen Link in New Tab\n\n\nOpen Link in Opposite Tab \n\n\nOpen Link in New Private Tab\n\n\nOpen Links in New Tor Tabs\n\n\nOpen Link in New Session Tab\n\n\nOpen Link in New Window\n\n\n\n\n\n\n\n\nSave\n\n\nSave Link As\u2026\n\n\n\n\n\n\n\n\nCopy Link Address\n\n\nCopy Link Text\n\n\n\n\n\n\n\n\nSave and Play Video \u30fb\u30fb\u30fb Play the linked video on the default player at the same time with down load.\n\n\nSend URL to Video Player \u30fb\u30fb\u30fb Sent a URL to the external player.\n\n\n\n\n\n\n\n\nCut\n\n\nCopy\n\n\nPaste\n\n\n\n\n\n\n\n\nOpen Image in New Tab\n\n\nSave Image\u2026\n\n\nCopy Image\n\n\nCopy Image Address\n\n\n\n\n\n\n\n\nLoop \u30fb\u30fb\u30fb Loop the videos.\n\n\nMuted \u30fb\u30fb\u30fb Mute the videos.\n\n\nShow Controls\n\n\nPlay Video in Popup Window \u30fb\u30fb\u30fb Cut the video to the pop-up window.\n\n\nPlay Video in Floating Panel \u30fb\u30fb\u30fb Cut the video to the floating panel.\n\n\n\n\n\n\n\n\nOpen Video in New Tab\n\n\nSave Video As...\n\n\nCopy video address\n\n\n\n\n\n\n\n\nOpen Audio in New Tab\n\n\nSave Audio As...\n\n\nCopy Audio Address", 
+            "title": "10. Context Menu"
+        }, 
+        {
+            "location": "/context-menu/#context-menu", 
+            "text": "In addition to the right click menu provided by the other browsers, this browser implements the original various menus.", 
+            "title": "Context Menu"
+        }, 
+        {
+            "location": "/context-menu/#1-send-to-ur", 
+            "text": "You can edit the URL of the link in \"Settings   Context Menu   Send to URL\" and send it or pass it to an external application.    You can decide the destination from \"Send Type\".   New Tab \u30fb\u30fb\u30fb Open the URL set in the new tab.  New Opposite Tab \u30fb\u30fb\u30fb Open the URL set in the opposite panel.  Command \u30fb\u30fb\u30fb Execute the set command  Command in Terminal \u30fb\u30fb\u30fb Execute the set command in the terminal   You can set the URL or command to send from \"Send URL / Command\". The %s part will be replaced to the actual URL.", 
+            "title": "1. Send to UR"
+        }, 
+        {
+            "location": "/context-menu/#2-settings", 
+            "text": "You can set the display presence to right click menu from \"Settings   Context Menu   Main Context Menu\".   Back  Forward  Reload     Search for \"\" \u30fb\u30fb\u30fb Search the selected text or link text     Copy Links \u30fb\u30fb\u30fb Copy all selected links  Open Links in New Tabs \u30fb\u30fb\u30fb Open all the selected links in a new tab  Download Selection \u30fb\u30fb\u30fb Pass the selected link to the downloader  Save Page as\u2026  Bookmark Page     Print\u2026     Translate this page \u30fb\u30fb\u30fb \u73feOpen the current page on opposite panel with Google Translate  Download All \u30fb\u30fb\u30fb Pass the link / media in the page to the downloader     Sync Scroll Left to Right  Sync Scroll Right to Left     View Page Source  Inspect Element     Open Link in New Tab  Open Link in Opposite Tab   Open Link in New Private Tab  Open Links in New Tor Tabs  Open Link in New Session Tab  Open Link in New Window     Save  Save Link As\u2026     Copy Link Address  Copy Link Text     Save and Play Video \u30fb\u30fb\u30fb Play the linked video on the default player at the same time with down load.  Send URL to Video Player \u30fb\u30fb\u30fb Sent a URL to the external player.     Cut  Copy  Paste     Open Image in New Tab  Save Image\u2026  Copy Image  Copy Image Address     Loop \u30fb\u30fb\u30fb Loop the videos.  Muted \u30fb\u30fb\u30fb Mute the videos.  Show Controls  Play Video in Popup Window \u30fb\u30fb\u30fb Cut the video to the pop-up window.  Play Video in Floating Panel \u30fb\u30fb\u30fb Cut the video to the floating panel.     Open Video in New Tab  Save Video As...  Copy video address     Open Audio in New Tab  Save Audio As...  Copy Audio Address", 
+            "title": "2. Settings"
+        }, 
+        {
+            "location": "/keyboard-shortcuts/", 
+            "text": "Keyboard Shortcut\n\n\nIt is possible to set up the keyboard shortcuts for over 100 functions.\n\n\n\n\n\n1. Settings\n\n\nYou can set shortcuts from \"Settings\n Keyboard\".\n\n\nThe key input is as written in the \nlink\n,\nand here is an example:\n\n\n\n\nCtrl+T\u3000\u30fb\u30fb\u30fb Press t key while pressing Ctrl.\n\n\nAlt+@ \u30fb\u30fb\u30fb Press @ key while pressing Alt.\n\n\nSpace \u30fb\u30fb\u30fb Space key\n\n\n\n\nThe following operations can be set up.\n\n\n\n\nNew Tab (CmdOrCtrl+T)\n\n\nNew Private Tab (Shift+CmdOrCtrl+P)\n\n\nNew Tor Tab\n\n\nNew Session Tab (Shift+CmdOrCtrl+S)\n\n\nNew Window (CmdOrCtrl+N)\n\n\nOpen Location (CmdOrCtrl+L Alt+D)\n\n\n\n\n\n\n\n\nTab Closing (CmdOrCtrl+W)\n\n\nClose Window (CmdOrCtrl+Shift+W Ctrl+F4)\n\n\nClose All Tabs (CmdOrCtrl+Alt+C)\n\n\nClose other Tabs (Shift+CmdOrCtrl+O)\n\n\nClose tabs to the left\n\n\nClose tabs to the right\n\n\n\n\n\n\n\n\nSave Page as (CmdOrCtrl+S)\n\n\nPrint (CmdOrCtrl+P)\n\n\nRestart Browser\n\n\nQuit Sushi Browser (CmdOrCtrl+Q)\n\n\n\n\n\n\n\n\nUndo (CmdOrCtrl+Z)\n\n\nRedo (CmdOrCtrl+Y)\n\n\nCut (CmdOrCtrl+X)\n\n\nCopy (CmdOrCtrl+C)\n\n\nPaste (CmdOrCtrl+V)\n\n\nPaste Without Formatting (Shift+CmdOrCtrl+V)\n\n\nSelect All (CmdOrCtrl+A)\n\n\n\n\n\n\n\n\nFind on Page (CmdOrCtrl+F F6)\n\n\nFind Next (CmdOrCtrl+G)\n\n\nFind Previous (CmdOrCtrl+Shift+G)\n\n\nActual Size (CmdOrCtrl+0)\n\n\nZoom In (CmdOrCtrl+= CmdOrCtrl+Shift+=)\n\n\nZoom Out (CmdOrCtrl+- CmdOrCtrl+Shift+-)\n\n\nStop (Esc)\n\n\n\n\n\n\n\n\nReload Page (CmdOrCtrl+R F5)\n\n\nClean Reload (CmdOrCtrl+Shift+R Ctrl+F5)\n\n\nReloads all tabs (CmdOrCtrl+Alt+R)\n\n\nReloads other tabs (CmdOrCtrl+Alt+O)\n\n\nReloads left tabs (CmdOrCtrl+Alt+L)\n\n\nReloads right tabs (CmdOrCtrl+Alt+I)\n\n\n\n\n\n\n\n\nToggle Developer Tools (Ctrl+Shift+I CmdOrCtrl+Alt+J F11)\n\n\nHome (CmdOrCtrl+Shift+H)\n\n\nBack (CmdOrCtrl+[ Alt+Left)\n\n\nForward (CmdOrCtrl+] Alt+Right)\n\n\nReopen Last Closed Tab (Shift+CmdOrCtrl+T)\n\n\nReopens all closed tabs (Shift+CmdOrCtrl+A) \u30fb\u30fb\u30fb Open all the tabs closed on the chosen panel.\n\n\n\n\n\n\n\n\nBookmark all tabs (Shift+CmdOrCtrl+B)\n\n\nBookmarks (Ctrl+Shift+O)\n\n\nBookmark Page (CmdOrCtrl+D)\n\n\n\n\n\n\n\n\nShow History (CmdOrCtrl+Y)\n\n\nOpen Note\n\n\nSettings (CmdOrCtrl+,)\n\n\nOpen FileExploler\n\n\nOpen Terminal\n\n\nOpen Automation\n\n\nOpen VideoConverter\n\n\n\n\n\n\n\n\nView Page Source (Ctrl+U)\n\n\nMinimize (CmdOrCtrl+M)\n\n\n\n\n\n\n\n\nSelect Next Tab (Ctrl+Tab CmdOrCtrl+Shift+] Ctrl+PageDown)\n\n\nSelect Previous Tab (Ctrl+Shift+Tab CmdOrCtrl+Shift+[ Ctrl+PageUp)\n\n\nTab 1 (CmdOrCtrl+1)\n\n\nTab 2 (CmdOrCtrl+2)\n\n\nTab 3 (CmdOrCtrl+3)\n\n\nTab 4 (CmdOrCtrl+4)\n\n\nTab 5 (CmdOrCtrl+5)\n\n\nTab 6 (CmdOrCtrl+6)\n\n\nTab 7 (CmdOrCtrl+7)\n\n\nTab 8 (CmdOrCtrl+8)\n\n\nLast tab (CmdOrCtrl+9)\n\n\nMulti Row Tabs \u30fb\u30fb\u30fb Switching of multi-row tabs.\n\n\nTab Preview \u30fb\u30fb\u30fb Switching of Tab Preview\n\n\n\n\n\n\n\n\nToggle MenuBar (CmdOrCtrl+Alt+T) \u30fb\u30fb\u30fb Switching of one Line mode\n\n\nChange Focus Panel (CmdOrCtrl+Alt+Space) \u30fb\u30fb\u30fb Move the focus of the panel\n\n\nSplit Left (CmdOrCtrl+Alt+Left)\n\n\nSplit Right (CmdOrCtrl+Alt+Right)\n\n\nSplit Top (CmdOrCtrl+Alt+Up)\n\n\nSplit Bottom (CmdOrCtrl+Alt+Down)\n\n\nSplit left tabs to left \u30fb\u30fb\u30fb Spliting a tab left than a current tab into the left panel.\n\n\nSplit right tabs to right \u30fb\u30fb\u30fb Spliting a tab right than a current tab into the right panel.\n\n\n\n\n\n\n\n\nSwap Position (CmdOrCtrl+Alt+P) \u30fb\u30fb\u30fb Exchange the position of the panel.\n\n\nSwitch Direction (CmdOrCtrl+Alt+D) \u30fb\u30fb\u30fb Exchange the direction of the panel\n\n\nAlign Horizontal (CmdOrCtrl+Alt+H)\n\n\nAlign Vertical (CmdOrCtrl+Alt+V)\n\n\nSwitch Sync Scroll (CmdOrCtrl+Alt+S) \n\n\nOpen Sidebar (CmdOrCtrl+Alt+B)\n\n\nEnable Search Highlight\n\n\nChange to Mobile Agent (CmdOrCtrl+Alt+M) \n\n\nDetach Panel (CmdOrCtrl+Alt+E)\n\n\n\n\n\n\n\n\nCopies the tab's URL to the clipboard\n\n\nLoad URL from clipboard (CmdOrCtrl+Alt+U)\n\n\nPaste and Open (CmdOrCtrl+Alt+N) \u30fb\u30fb\u30fb Open an URL of the clipboard on a new tab. (It is possible to open multiple URL with a break of a new line.)\n\n\nCopy Tab Info \u30fb\u30fb\u30fb Copying a tab information(number, URL, title)\n\n\nCopy All Tab Titles \u30fb\u30fb\u30fb Copying all tab titles\n\n\nCopy All Tab URLs \u30fb\u30fb\u30fb Copying all tab URLs\n\n\nCopy All Tab Infos  \u30fb\u30fb\u30fb Copying all tab information(number, URL, title)\n\n\n\n\n\n\n\n\nDuplicate tab\n\n\nPin\n\n\nMute Tab (Shift+CmdOrCtrl+M)\n\n\nFreeze Tab\n\n\nProtect Tab\n\n\nLock Tab \n\n\n\n\n\n\n\n\nDownloads (Ctrl+J) \u30fb\u30fb\u30fb Open downloader page.\n\n\n\n\n\n\n\n\nFull Page Capture to Clipboard\n\n\nFull Page Capture as JPEG\n\n\nFull Page Capture as PNG\n\n\nSelection Capture to Clipboard\n\n\nSelection Capture as JPEG\n\n\nSelection Capture as PNG\n\n\n\n\n\n\n\n\nHide Sushi Browser (Command+H)\n\n\nHide Others (Command+Alt+H)", 
+            "title": "11. Keyboard Shortcut"
+        }, 
+        {
+            "location": "/keyboard-shortcuts/#keyboard-shortcut", 
+            "text": "It is possible to set up the keyboard shortcuts for over 100 functions.", 
+            "title": "Keyboard Shortcut"
+        }, 
+        {
+            "location": "/keyboard-shortcuts/#1-settings", 
+            "text": "You can set shortcuts from \"Settings  Keyboard\".  The key input is as written in the  link ,\nand here is an example:   Ctrl+T\u3000\u30fb\u30fb\u30fb Press t key while pressing Ctrl.  Alt+@ \u30fb\u30fb\u30fb Press @ key while pressing Alt.  Space \u30fb\u30fb\u30fb Space key   The following operations can be set up.   New Tab (CmdOrCtrl+T)  New Private Tab (Shift+CmdOrCtrl+P)  New Tor Tab  New Session Tab (Shift+CmdOrCtrl+S)  New Window (CmdOrCtrl+N)  Open Location (CmdOrCtrl+L Alt+D)     Tab Closing (CmdOrCtrl+W)  Close Window (CmdOrCtrl+Shift+W Ctrl+F4)  Close All Tabs (CmdOrCtrl+Alt+C)  Close other Tabs (Shift+CmdOrCtrl+O)  Close tabs to the left  Close tabs to the right     Save Page as (CmdOrCtrl+S)  Print (CmdOrCtrl+P)  Restart Browser  Quit Sushi Browser (CmdOrCtrl+Q)     Undo (CmdOrCtrl+Z)  Redo (CmdOrCtrl+Y)  Cut (CmdOrCtrl+X)  Copy (CmdOrCtrl+C)  Paste (CmdOrCtrl+V)  Paste Without Formatting (Shift+CmdOrCtrl+V)  Select All (CmdOrCtrl+A)     Find on Page (CmdOrCtrl+F F6)  Find Next (CmdOrCtrl+G)  Find Previous (CmdOrCtrl+Shift+G)  Actual Size (CmdOrCtrl+0)  Zoom In (CmdOrCtrl+= CmdOrCtrl+Shift+=)  Zoom Out (CmdOrCtrl+- CmdOrCtrl+Shift+-)  Stop (Esc)     Reload Page (CmdOrCtrl+R F5)  Clean Reload (CmdOrCtrl+Shift+R Ctrl+F5)  Reloads all tabs (CmdOrCtrl+Alt+R)  Reloads other tabs (CmdOrCtrl+Alt+O)  Reloads left tabs (CmdOrCtrl+Alt+L)  Reloads right tabs (CmdOrCtrl+Alt+I)     Toggle Developer Tools (Ctrl+Shift+I CmdOrCtrl+Alt+J F11)  Home (CmdOrCtrl+Shift+H)  Back (CmdOrCtrl+[ Alt+Left)  Forward (CmdOrCtrl+] Alt+Right)  Reopen Last Closed Tab (Shift+CmdOrCtrl+T)  Reopens all closed tabs (Shift+CmdOrCtrl+A) \u30fb\u30fb\u30fb Open all the tabs closed on the chosen panel.     Bookmark all tabs (Shift+CmdOrCtrl+B)  Bookmarks (Ctrl+Shift+O)  Bookmark Page (CmdOrCtrl+D)     Show History (CmdOrCtrl+Y)  Open Note  Settings (CmdOrCtrl+,)  Open FileExploler  Open Terminal  Open Automation  Open VideoConverter     View Page Source (Ctrl+U)  Minimize (CmdOrCtrl+M)     Select Next Tab (Ctrl+Tab CmdOrCtrl+Shift+] Ctrl+PageDown)  Select Previous Tab (Ctrl+Shift+Tab CmdOrCtrl+Shift+[ Ctrl+PageUp)  Tab 1 (CmdOrCtrl+1)  Tab 2 (CmdOrCtrl+2)  Tab 3 (CmdOrCtrl+3)  Tab 4 (CmdOrCtrl+4)  Tab 5 (CmdOrCtrl+5)  Tab 6 (CmdOrCtrl+6)  Tab 7 (CmdOrCtrl+7)  Tab 8 (CmdOrCtrl+8)  Last tab (CmdOrCtrl+9)  Multi Row Tabs \u30fb\u30fb\u30fb Switching of multi-row tabs.  Tab Preview \u30fb\u30fb\u30fb Switching of Tab Preview     Toggle MenuBar (CmdOrCtrl+Alt+T) \u30fb\u30fb\u30fb Switching of one Line mode  Change Focus Panel (CmdOrCtrl+Alt+Space) \u30fb\u30fb\u30fb Move the focus of the panel  Split Left (CmdOrCtrl+Alt+Left)  Split Right (CmdOrCtrl+Alt+Right)  Split Top (CmdOrCtrl+Alt+Up)  Split Bottom (CmdOrCtrl+Alt+Down)  Split left tabs to left \u30fb\u30fb\u30fb Spliting a tab left than a current tab into the left panel.  Split right tabs to right \u30fb\u30fb\u30fb Spliting a tab right than a current tab into the right panel.     Swap Position (CmdOrCtrl+Alt+P) \u30fb\u30fb\u30fb Exchange the position of the panel.  Switch Direction (CmdOrCtrl+Alt+D) \u30fb\u30fb\u30fb Exchange the direction of the panel  Align Horizontal (CmdOrCtrl+Alt+H)  Align Vertical (CmdOrCtrl+Alt+V)  Switch Sync Scroll (CmdOrCtrl+Alt+S)   Open Sidebar (CmdOrCtrl+Alt+B)  Enable Search Highlight  Change to Mobile Agent (CmdOrCtrl+Alt+M)   Detach Panel (CmdOrCtrl+Alt+E)     Copies the tab's URL to the clipboard  Load URL from clipboard (CmdOrCtrl+Alt+U)  Paste and Open (CmdOrCtrl+Alt+N) \u30fb\u30fb\u30fb Open an URL of the clipboard on a new tab. (It is possible to open multiple URL with a break of a new line.)  Copy Tab Info \u30fb\u30fb\u30fb Copying a tab information(number, URL, title)  Copy All Tab Titles \u30fb\u30fb\u30fb Copying all tab titles  Copy All Tab URLs \u30fb\u30fb\u30fb Copying all tab URLs  Copy All Tab Infos  \u30fb\u30fb\u30fb Copying all tab information(number, URL, title)     Duplicate tab  Pin  Mute Tab (Shift+CmdOrCtrl+M)  Freeze Tab  Protect Tab  Lock Tab      Downloads (Ctrl+J) \u30fb\u30fb\u30fb Open downloader page.     Full Page Capture to Clipboard  Full Page Capture as JPEG  Full Page Capture as PNG  Selection Capture to Clipboard  Selection Capture as JPEG  Selection Capture as PNG     Hide Sushi Browser (Command+H)  Hide Others (Command+Alt+H)", 
+            "title": "1. Settings"
+        }, 
+        {
+            "location": "/mouse-gesture/", 
+            "text": "Mouse Gesture\n\n\nAssign gestures to various controls by using \"Gestures for Google Chrome\" from Chrome Extension.\n\nUnlike Chrome, you can use Mouse Gesture also on the administration page. \n\nAlso, the context menu can be used on Mac/Linux version as usual.\n\n\n\n\n1. Settings\n\n\nYou can set Gesture from \"Settings \n Mouse Gesture\".  \n\n\nBasic settings and the setting whether to use Super Drag or not, can be set in the tab \"Basics\".  \n\n\nIn the tab \"Actions\" gestures can be assigned to controls.\n\nIn \"add new gesture\" a new gesture can be added.\n\n\n\nThe configurable operations are as follows.\n\n\n\n\nNone\n\n\nno action\n\n\n\n\n\n\n\n\n\n\n\n\nNavigations\n\n\nback\n\n\nfastback\n\n\nforward\n\n\ngo to ...\n\n\ngo to parent dir\n\n\n\n\n\n\n\n\n\n\n\n\nTabs\n\n\nopen new tab\n\n\nopen new tab background\n\n\nopen blank tab\n\n\nopen blank tab background\n\n\nopen ... in new tab\n\n\nopen ... in new tab background\n\n\nclose this tab\n\n\nclose other tabs\n\n\nclose right tabs\n\n\nclose left tabs\n\n\npin this tab\n\n\nunpin this tab\n\n\ntoggle pin tab\n\n\nclose left tab\n\n\nclose right tab\n\n\nmove tab left\n\n\nmove tab right\n\n\nmute tab\n\n\nfreeze tab\n\n\nprotect tab\n\n\nlock tab\n\n\nbookmark page\n\n\nview page source\n\n\nload url from clipboard\n\n\npaste and open\n\n\n\n\n\n\n\n\n\n\n\n\nLinks\n\n\nopen link in new tab\n\n\nopen link in new tab background\n\n\n\n\n\n\n\n\n\n\n\n\nWindows\n\n\nopen new window\n\n\nclose this window\n\n\n\n\n\n\n\n\n\n\n\n\nTabNavigations\n\n\nselect right tab\n\n\nselect left tab\n\n\nselect last tab\n\n\nselect first tab\n\n\nre-open closed tab\n\n\nclone tab\n\n\n\n\n\n\n\n\n\n\n\n\nScroll\n\n\nscroll up\n\n\nscroll down\n\n\nscroll right\n\n\nscroll left\n\n\nscroll down half page\n\n\nscroll up half page\n\n\nscroll down full page\n\n\nscroll up full page\n\n\nscroll to top\n\n\nscroll to bottom\n\n\n\n\n\n\n\n\n\n\n\n\nLoad\n\n\nreload\n\n\ncacheless reload\n\n\nreload all tabs\n\n\nstop\n\n\n\n\n\n\n\n\n\n\n\n\nClipboard\n\n\ncopy url\n\n\ncopy url and title\n\n\ncopy url and title as html\n\n\ncopy url and title by custom tag ...\n\n\n\n\n\n\n\n\n\n\n\n\nScreenShot\n\n\nfull page capture to clipboard\n\n\nfull page capture as JPEG\n\n\nfull page capture as PNG\n\n\nselection capture to clipboard\n\n\nselection capture as JPEG\n\n\nselection capture as PNG\n\n\n\n\n\n\n\n\n\n\n\n\nOthers\n\n\nconfig\n\n\nrun script ...\n\n\nfind in page\n\n\nquit browser\n\n\nrestart browser\n\n\nsplit left\n\n\nsplit right\n\n\nsplit top\n\n\nsplit bottom\n\n\nswap position\n\n\nswitch direction\n\n\nalign horizontal\n\n\nalign vertical\n\n\nswitch sync scroll\n\n\nopen sidebar\n\n\nenable search highlight\n\n\nchange to mobile agent", 
+            "title": "12. Mouse Gesture"
+        }, 
+        {
+            "location": "/mouse-gesture/#mouse-gesture", 
+            "text": "Assign gestures to various controls by using \"Gestures for Google Chrome\" from Chrome Extension. \nUnlike Chrome, you can use Mouse Gesture also on the administration page.  \nAlso, the context menu can be used on Mac/Linux version as usual.", 
+            "title": "Mouse Gesture"
+        }, 
+        {
+            "location": "/mouse-gesture/#1-settings", 
+            "text": "You can set Gesture from \"Settings   Mouse Gesture\".    Basic settings and the setting whether to use Super Drag or not, can be set in the tab \"Basics\".    In the tab \"Actions\" gestures can be assigned to controls. \nIn \"add new gesture\" a new gesture can be added.  The configurable operations are as follows.   None  no action       Navigations  back  fastback  forward  go to ...  go to parent dir       Tabs  open new tab  open new tab background  open blank tab  open blank tab background  open ... in new tab  open ... in new tab background  close this tab  close other tabs  close right tabs  close left tabs  pin this tab  unpin this tab  toggle pin tab  close left tab  close right tab  move tab left  move tab right  mute tab  freeze tab  protect tab  lock tab  bookmark page  view page source  load url from clipboard  paste and open       Links  open link in new tab  open link in new tab background       Windows  open new window  close this window       TabNavigations  select right tab  select left tab  select last tab  select first tab  re-open closed tab  clone tab       Scroll  scroll up  scroll down  scroll right  scroll left  scroll down half page  scroll up half page  scroll down full page  scroll up full page  scroll to top  scroll to bottom       Load  reload  cacheless reload  reload all tabs  stop       Clipboard  copy url  copy url and title  copy url and title as html  copy url and title by custom tag ...       ScreenShot  full page capture to clipboard  full page capture as JPEG  full page capture as PNG  selection capture to clipboard  selection capture as JPEG  selection capture as PNG       Others  config  run script ...  find in page  quit browser  restart browser  split left  split right  split top  split bottom  swap position  switch direction  align horizontal  align vertical  switch sync scroll  open sidebar  enable search highlight  change to mobile agent", 
+            "title": "1. Settings"
+        }, 
+        {
+            "location": "/chrome-extension/", 
+            "text": "Chrome Extension\n\n\nThis browser partially supports Chrome Extension. Also, some Firefox Addon (WebExtension) can be used.    \n\n\n\n\n1. Installation and Setting\n\n\nYou can install \nChrome Extension\n, \nFirefox Addon\n from its official website.  \n\n\nYou can control and delete valid / invalid for the installed extension from \"Settings \n Extensions\".\n\nPressing the optional gear icon moves you to the settings page.\n\n\n\n\n\n2. Installation\n\n\nIn the installer version, Chrome Extension is installed in the following folder.  \n\n\n\n\nWindows: C:\\Users[Name]\\AppData\\Roaming\\sushiBrowser\\resource\\extension\n\n\nMacOS: /Users/[Name]/Library/Application Support/sushiBrowser/resource/extension\n\n\nLinux: ~/.config/sushiBrowser/resource/extension/\n\n\n\n\nIn the portable version, it is saved under \"data/resource/extension\" of the unzipped folder.\n\n\n\n\n3. Chrome Extension API\n\n\nSome or all of the following APIs are supported.\n\n\n\n\nchrome.bookmarks\n\n\nchrome.browserAction\n\n\nchrome.browsingData\n\n\nchrome.commands\n\n\nchrome.contentSettings\n\n\nchrome.contextMenus\n\n\nchrome.cookies\n\n\nchrome.downloads\n\n\nchrome.extension\n\n\nchrome.history\n\n\nchrome.i18\n\n\nchrome.idle\n\n\nchrome.notifications\n\n\nchrome.pageAction\n\n\nchrome.proxy\n\n\nchrome.runtime\n\n\nchrome.sessions\n\n\nchrome.storage\n\n\nchrome.tabs\n\n\nchrome.topSites\n\n\nchrome.webNavigation\n\n\nchrome.webRequest\n\n\nchrome.windows\n\n\n\n\nThe unsupported API is as follows.\n\n\n\n\nchrome.accessibilityFeatures\n\n\nchrome.alarms\n\n\nchrome.certificateProvider\n\n\nchrome.debugger\n\n\nchrome.declarativeContent\n\n\nchrome.desktopCapture\n\n\nchrome.devtools\n\n\nchrome.documentScan\n\n\nchrome.enterprise\n\n\nchrome.events\n\n\nchrome.fileBrowserHandler\n\n\nchrome.fileSystemProvider\n\n\nchrome.fontSettings\n\n\nchrome.gcm\n\n\nchrome.identity\n\n\nchrome.instanceID\n\n\nchrome.management\n\n\nchrome.networking\n\n\nchrome.omnibox\n\n\nchrome.pageCapture\n\n\nchrome.permissions\n\n\nchrome.platformKeys\n\n\nchrome.power\n\n\nchrome.printerProvider\n\n\nchrome.privacy\n\n\nchrome.system\n\n\nchrome.tabCapture\n\n\nchrome.tts\n\n\nchrome.ttsEngine\n\n\nchrome.types\n\n\nchrome.vpnProvider\n\n\nchrome.wallpaper\n\n\nchrome.webstore", 
+            "title": "13. Chrome Extension"
+        }, 
+        {
+            "location": "/chrome-extension/#chrome-extension", 
+            "text": "This browser partially supports Chrome Extension. Also, some Firefox Addon (WebExtension) can be used.", 
+            "title": "Chrome Extension"
+        }, 
+        {
+            "location": "/chrome-extension/#1-installation-and-setting", 
+            "text": "You can install  Chrome Extension ,  Firefox Addon  from its official website.    You can control and delete valid / invalid for the installed extension from \"Settings   Extensions\". \nPressing the optional gear icon moves you to the settings page.", 
+            "title": "1. Installation and Setting"
+        }, 
+        {
+            "location": "/chrome-extension/#2-installation", 
+            "text": "In the installer version, Chrome Extension is installed in the following folder.     Windows: C:\\Users[Name]\\AppData\\Roaming\\sushiBrowser\\resource\\extension  MacOS: /Users/[Name]/Library/Application Support/sushiBrowser/resource/extension  Linux: ~/.config/sushiBrowser/resource/extension/   In the portable version, it is saved under \"data/resource/extension\" of the unzipped folder.", 
+            "title": "2. Installation"
+        }, 
+        {
+            "location": "/chrome-extension/#3-chrome-extension-api", 
+            "text": "Some or all of the following APIs are supported.   chrome.bookmarks  chrome.browserAction  chrome.browsingData  chrome.commands  chrome.contentSettings  chrome.contextMenus  chrome.cookies  chrome.downloads  chrome.extension  chrome.history  chrome.i18  chrome.idle  chrome.notifications  chrome.pageAction  chrome.proxy  chrome.runtime  chrome.sessions  chrome.storage  chrome.tabs  chrome.topSites  chrome.webNavigation  chrome.webRequest  chrome.windows   The unsupported API is as follows.   chrome.accessibilityFeatures  chrome.alarms  chrome.certificateProvider  chrome.debugger  chrome.declarativeContent  chrome.desktopCapture  chrome.devtools  chrome.documentScan  chrome.enterprise  chrome.events  chrome.fileBrowserHandler  chrome.fileSystemProvider  chrome.fontSettings  chrome.gcm  chrome.identity  chrome.instanceID  chrome.management  chrome.networking  chrome.omnibox  chrome.pageCapture  chrome.permissions  chrome.platformKeys  chrome.power  chrome.printerProvider  chrome.privacy  chrome.system  chrome.tabCapture  chrome.tts  chrome.ttsEngine  chrome.types  chrome.vpnProvider  chrome.wallpaper  chrome.webstore", 
+            "title": "3. Chrome Extension API"
+        }, 
+        {
+            "location": "/chrome-theme/", 
+            "text": "Chrome Theme\n\n\nYou can apply chrome themes from the Chrome Web Store.\n\n\n\n\n1. Install\n\n\nYou can install themes from \nChrome Web Store\n.\n\n\nYou can change and delete the theme from \"Settings \n Theme\".\n\nYou can also set whether to apply the theme style to each management page.", 
+            "title": "14. Chrome Theme"
+        }, 
+        {
+            "location": "/chrome-theme/#chrome-theme", 
+            "text": "You can apply chrome themes from the Chrome Web Store.", 
+            "title": "Chrome Theme"
+        }, 
+        {
+            "location": "/chrome-theme/#1-install", 
+            "text": "You can install themes from  Chrome Web Store .  You can change and delete the theme from \"Settings   Theme\". \nYou can also set whether to apply the theme style to each management page.", 
+            "title": "1. Install"
+        }, 
+        {
+            "location": "/data-export-and-import/", 
+            "text": "Data import/export\n\n\nFrom \"Settings \n Data\" you can import data from other browser or various data export/import.\n\n\n\n\n1. Import browser data\n\n\nWhen press import , \"Import Browser Data\" dialog will appear and you can import from Edge, IE, Chrome, Firefox data as follows:\n\n\n\n\nBrowser History\n\n\nBookmarks\n\n\nCookies\n\n\nPasswords\n\n\n\n\n*While browser from you are importing is starting up, there might be data which cannot be imported. Import should be done once starting up completed.  \n\n\nAlso, it can import bookmarks in HTML file format. \n\n\n\n\n\n2. Export bookmarks\n\n\nClicking the Export button exports bookmarks in HTML format. \n\n\n\n\n\n3. Import/export settings\n\n\nit can import/export the following data in JSON format. \n\nWhen importing, please take note that all data will become converted. \n\n\n\n\nGeneral Settings\n\n\nBookmarks\n\n\nBrowsing history\n\n\nSession Manager\n\n\nFavicon\n\n\nDownload history\n\n\nAutomation\n\n\nNote\n\n\n\n\n\n\n\n\n4. Data deletion\n\n\nIt's possible to delete data immediately or after closing the browser.   \n\n\nThe range of data to be deleted can be set with the following 3 patterns.  \n\n\n\n\nAll Data \u30fb\u30fb\u30fb Delete all data.  \n\n\nClear Data Greater than [N] days ago from now \u30fb\u30fb\u30fb Delete data from the present to N days ago. \n\n\nRange \u30fb\u30fb\u30fb Delete data on a specified date. \n\n\n\n\nThe following data will be deleted. Items stated with \"Clear All Data\" will all be deleted regardless of a specified range.\n\n\n\n\nGeneral Settings (Clear All Data)\n\n\nBookmarks / User Saved Sessions\n\n\nBrowsing history\n\n\nSession Manager\n\n\nFavicon\n\n\nDownload history\n\n\nAutomation\n\n\nNote\n\n\nCached images and files (Clear All Data)\n\n\nAll site cookies (Clear All Data)\n\n\nAutocomplete data (Clear All Data)\n\n\nAutofill data (Clear All Data)\n\n\nSaved Passwords (Clear All Data)", 
+            "title": "15. Data export/import"
+        }, 
+        {
+            "location": "/data-export-and-import/#data-importexport", 
+            "text": "From \"Settings   Data\" you can import data from other browser or various data export/import.", 
+            "title": "Data import/export"
+        }, 
+        {
+            "location": "/data-export-and-import/#1-import-browser-data", 
+            "text": "When press import , \"Import Browser Data\" dialog will appear and you can import from Edge, IE, Chrome, Firefox data as follows:   Browser History  Bookmarks  Cookies  Passwords   *While browser from you are importing is starting up, there might be data which cannot be imported. Import should be done once starting up completed.    Also, it can import bookmarks in HTML file format.", 
+            "title": "1. Import browser data"
+        }, 
+        {
+            "location": "/data-export-and-import/#2-export-bookmarks", 
+            "text": "Clicking the Export button exports bookmarks in HTML format.", 
+            "title": "2. Export bookmarks"
+        }, 
+        {
+            "location": "/data-export-and-import/#3-importexport-settings", 
+            "text": "it can import/export the following data in JSON format.  \nWhen importing, please take note that all data will become converted.    General Settings  Bookmarks  Browsing history  Session Manager  Favicon  Download history  Automation  Note", 
+            "title": "3. Import/export settings"
+        }, 
+        {
+            "location": "/data-export-and-import/#4-data-deletion", 
+            "text": "It's possible to delete data immediately or after closing the browser.     The range of data to be deleted can be set with the following 3 patterns.     All Data \u30fb\u30fb\u30fb Delete all data.    Clear Data Greater than [N] days ago from now \u30fb\u30fb\u30fb Delete data from the present to N days ago.   Range \u30fb\u30fb\u30fb Delete data on a specified date.    The following data will be deleted. Items stated with \"Clear All Data\" will all be deleted regardless of a specified range.   General Settings (Clear All Data)  Bookmarks / User Saved Sessions  Browsing history  Session Manager  Favicon  Download history  Automation  Note  Cached images and files (Clear All Data)  All site cookies (Clear All Data)  Autocomplete data (Clear All Data)  Autofill data (Clear All Data)  Saved Passwords (Clear All Data)", 
+            "title": "4. Data deletion"
+        }, 
+        {
+            "location": "/various-settings/", 
+            "text": "Various Settings\n\n\nBasic settings and the configuration of unique items can be carried out from \"Settings \n General\". \n\n\n\n\n\n\n1. Settings\n\n\n\n\nSushi Browser starts with  \n\n\nA new tab shows  \n\n\nHomepage\n\n\nDownload location\n\n\n\n\n\n\n\n\nLanguage (Requires browser restart)\n\n\n\n\n\n\n\n\nAdobe Flash Player \u30fb\u30fb\u30fb You can set Flash Player ON / OFF. If Flash Player does not start please install Flash Player from \nhere\n.  \n\n\nWidevine\n\n\n\n\n\n\n\n\nProtection  \n\n\nHTTPS Everywhere \u30fb\u30fb\u30fb Function to replace http communication with https communication as much as possible\n\n\nTracking Protection \u30fb\u30fb\u30fb Protection function from tracking services such as Google Analytics\n\n\nBlock Scripts \u30fb\u30fb\u30fb Function to disable Javascript (will break many sites)\n\n\nFingerprinting Protection  \u30fb\u30fb\u30fb Function to protect information reading by fingerprinting\n\n\n\n\n\n\n\n\n\n\n\n\nAutocomplete data (Requires browser restart)\n\n\nOrder of AutoComplete \u30fb\u30fb\u30fb \"Suggestion by search engine \u2192 History\" or \"history \u2192 suggestion by search engine\"\n\n\nNumber of Suggestions \u30fb\u30fb\u30fb Set the number of \"Suggest by search engine\" display\n\n\nNumber of Histories \u30fb\u30fb\u30fb Set the number of suggestion by \"history\" to be displayed\n\n\nSort history in descending order of PV \u30fb\u30fb\u30fb Arrange the order of sorting by \"history\" in ascending order of page views (usually in the order of newest date)\n\n\n\n\n\n\n\n\n\n\n\n\nZoom (Requires browser restart) \u30fb\u30fb\u30fb Configure the amount of change in the zoom percentage\n\n\n\n\n\n\n\n\nDefault Sidebar Position \u30fb\u30fb\u30fb Configure the default location of the sidebar icon on the menu bar after it is clicked \n\n\n\n\n\n\n\n\nOpen Link in New Tab (Requires browser restart)  \n\n\nSideBar Link  \n\n\nToolBar Link  \n\n\nAddressBar Link  \n\n\nBookmarkBar Link\n\n\n\n\n\n\n\n\n\n\n\n\nSpecial Behavior  \n\n\nShow Chrome Extension Icon on Toolbar(Requires browser restart) \u30fb\u30fb\u30fb Configure whether the Chrome expansion icon will be displayed on the tool bar or on the background bar \n\n\nShow Fullscreen Button(Requires browser restart) \u30fb\u30fb\u30fb  Set whether full screen button on top of the window is shown or not.\n\n\nEnable Mouse Gesture(Requires browser restart)  \u30fb\u30fb\u30fb Set on and off of mouse gesture\n\n\nShow Back/Forward Button's Badget (Requires browser restart) \u30fb\u30fb\u30fb Set if icon of value under right of the button of return and go forward is shown or not.\n\n\nShow Focus Location Bar of Top Page \u30fb\u30fb\u30fb Set if focus location bar is shown or not on top page.\n\n\nEnable Bottom Download List (Requires browser restart) \u30fb\u30fb\u30fb Set if downloading list shown at the bottom edge is shown or not when downloading starts.\n\n\nEnable behavior change when long press of middle mouse button (Requires browser restart) \u30fb\u30fb\u30fb Set if action is changed in case where middle click of the mouse is pushed for a long time.\n\n\nEnable horizontal position moving (When you triple left clicking) \u30fb\u30fb\u30fb Set if it is scrolled horizontally at the position where it is clicked if we click 3 times.\n\n\nEnable anything search (When you double pressing the shift key) (Requires browser restart)\u3000\u30fb\u30fb\u30fb Set if search bar is shown if we push shift twice.\n\n\n\n\n\n\n\n\n\n\n\n\nSend URL to external media player  \n\n\n\n\n\n\n\n\nConcurrent Download(0 means no limit) \u30fb\u30fb\u30fb Configure the number of files that will be simultaneously parallel downloaded \n\n\nMax number of connections per item (Parallel Download) \u30fb\u30fb\u30fb Number of separate downloads  \n\n\n\n\n\n\n\n\nCustom Window Icon(Requires browser restart) \u30fb\u30fb\u30fb Window icon settings \n\n\n\n\n\n\n\n\nSync Scroll Margin(Requires browser restart) \u30fb\u30fb\u30fb\u3000Configure the margin of the next panel during synchronized scrolling \n\n\n\n\n\n\n\n\nBind Window Frame Margin\n\n\nBind Window Title Margin", 
+            "title": "16. Various Settings"
+        }, 
+        {
+            "location": "/various-settings/#various-settings", 
+            "text": "Basic settings and the configuration of unique items can be carried out from \"Settings   General\".", 
+            "title": "Various Settings"
+        }, 
+        {
+            "location": "/various-settings/#1-settings", 
+            "text": "Sushi Browser starts with    A new tab shows    Homepage  Download location     Language (Requires browser restart)     Adobe Flash Player \u30fb\u30fb\u30fb You can set Flash Player ON / OFF. If Flash Player does not start please install Flash Player from  here .    Widevine     Protection    HTTPS Everywhere \u30fb\u30fb\u30fb Function to replace http communication with https communication as much as possible  Tracking Protection \u30fb\u30fb\u30fb Protection function from tracking services such as Google Analytics  Block Scripts \u30fb\u30fb\u30fb Function to disable Javascript (will break many sites)  Fingerprinting Protection  \u30fb\u30fb\u30fb Function to protect information reading by fingerprinting       Autocomplete data (Requires browser restart)  Order of AutoComplete \u30fb\u30fb\u30fb \"Suggestion by search engine \u2192 History\" or \"history \u2192 suggestion by search engine\"  Number of Suggestions \u30fb\u30fb\u30fb Set the number of \"Suggest by search engine\" display  Number of Histories \u30fb\u30fb\u30fb Set the number of suggestion by \"history\" to be displayed  Sort history in descending order of PV \u30fb\u30fb\u30fb Arrange the order of sorting by \"history\" in ascending order of page views (usually in the order of newest date)       Zoom (Requires browser restart) \u30fb\u30fb\u30fb Configure the amount of change in the zoom percentage     Default Sidebar Position \u30fb\u30fb\u30fb Configure the default location of the sidebar icon on the menu bar after it is clicked      Open Link in New Tab (Requires browser restart)    SideBar Link    ToolBar Link    AddressBar Link    BookmarkBar Link       Special Behavior    Show Chrome Extension Icon on Toolbar(Requires browser restart) \u30fb\u30fb\u30fb Configure whether the Chrome expansion icon will be displayed on the tool bar or on the background bar   Show Fullscreen Button(Requires browser restart) \u30fb\u30fb\u30fb  Set whether full screen button on top of the window is shown or not.  Enable Mouse Gesture(Requires browser restart)  \u30fb\u30fb\u30fb Set on and off of mouse gesture  Show Back/Forward Button's Badget (Requires browser restart) \u30fb\u30fb\u30fb Set if icon of value under right of the button of return and go forward is shown or not.  Show Focus Location Bar of Top Page \u30fb\u30fb\u30fb Set if focus location bar is shown or not on top page.  Enable Bottom Download List (Requires browser restart) \u30fb\u30fb\u30fb Set if downloading list shown at the bottom edge is shown or not when downloading starts.  Enable behavior change when long press of middle mouse button (Requires browser restart) \u30fb\u30fb\u30fb Set if action is changed in case where middle click of the mouse is pushed for a long time.  Enable horizontal position moving (When you triple left clicking) \u30fb\u30fb\u30fb Set if it is scrolled horizontally at the position where it is clicked if we click 3 times.  Enable anything search (When you double pressing the shift key) (Requires browser restart)\u3000\u30fb\u30fb\u30fb Set if search bar is shown if we push shift twice.       Send URL to external media player       Concurrent Download(0 means no limit) \u30fb\u30fb\u30fb Configure the number of files that will be simultaneously parallel downloaded   Max number of connections per item (Parallel Download) \u30fb\u30fb\u30fb Number of separate downloads       Custom Window Icon(Requires browser restart) \u30fb\u30fb\u30fb Window icon settings      Sync Scroll Margin(Requires browser restart) \u30fb\u30fb\u30fb\u3000Configure the margin of the next panel during synchronized scrolling      Bind Window Frame Margin  Bind Window Title Margin", 
+            "title": "1. Settings"
+        }, 
+        {
+            "location": "/menu-and-bar/", 
+            "text": "Main Menu and Menubar\n\n\nExplains the main menu and menu bar. \n\n\n\n\n\n1. Main menu\n\n\n\n\nNew Window\n\n\n\n\n\n\n\n\nOneLine Menu(ALL) \u30fb\u30fb\u30fb Switch to One Line mode \n\n\nMulti Row Tabs \u30fb\u30fb\u30fb Switching of multi-row tabs.\n\n\nTab Preview \u30fb\u30fb\u30fb Switching of Tab Preview\n\n\n\n\n\n\n\n\nAlways on top\n\n\nBind Selected Window \u30fb\u30fb\u30fbBind another window to the panel\n\n\nSearch Highlight\n\n\n\n\n\n\n\n\n(-) 100% (+) \u30fb\u30fb\u30fb Change zoom ratio\n\n\n\n\n\n\n\n\nAdBlock(ALL) \u30fb\u30fb\u30fb Switching on AdBlock for all tabs \n\n\nAdBlock(Tab) \u30fb\u30fb\u30fb Switching on AdBlock for each tab \n\n\nAdBlock(Domain) \u30fb\u30fb\u30fb Switching on AdBlock for each domain \n\n\n\n\n\n\n\n\nWindow SubMenu\n\n\nAlways Show Bookmarks Bar\n\n\nShow bookmark bar on top page\n\n\nShow bookmark bar on mouse hover\n\n\nOneLine Menu \u30fb\u30fb\u30fb Switch this panel to One Line mode\n\n\nDetach This Panel\n\n\nPanels to Windows \u30fb\u30fb\u30fb Separating the panel into windows \n\n\nFull Screen Mode\n\n\n\n\n\n\n\n\n\n\n\n\nMore Tools\n\n\nOpen Opposite \u30fb\u30fb\u30fb Configure whether to open the opposite panel \n\n\nSearch Highlight Recursive \u30fb\u30fb\u30fb Configure whether to repeat highlighted search \n\n\nDon't load tabs untill selected\n\n\nAsk where to save each file before downloading\n\n\n\n\n\n\n\n\n\n\n\n\nExtract Audio from Video \n\n\nChange Pdf View to Comic \u30fb\u30fb\u30fb Set pdf files to open in comic mode\n\n\nSync Datas\n\n\n\n\n\n\n\n\nPrint\n\n\nSearch\n\n\nSettings\n\n\nToggle Developer Tools\n\n\n\n\n\n\n\n\nClose This Panel\n\n\nClose Window\n\n\n\n\n\n\n\n\nRestart Browser\n\n\nQuit Browser\n\n\n\n\n\n\n\n\nAbout \u30fb\u30fb\u30fb Browser version information\n\n\n\n\n\n\n2. Menubar\n\n\nMenu icon and Chrome Extension icon are displayed on Menubar.\n\nAlso, if you display the Main menu, the background Menubar will be displayed.\n\n\nRight-click on the icon on the menu bar and select \"Sort Menu\", you can sort icons on Menubar.", 
+            "title": "17. Main Menu and Menubar"
+        }, 
+        {
+            "location": "/menu-and-bar/#main-menu-and-menubar", 
+            "text": "Explains the main menu and menu bar.", 
+            "title": "Main Menu and Menubar"
+        }, 
+        {
+            "location": "/menu-and-bar/#1-main-menu", 
+            "text": "New Window     OneLine Menu(ALL) \u30fb\u30fb\u30fb Switch to One Line mode   Multi Row Tabs \u30fb\u30fb\u30fb Switching of multi-row tabs.  Tab Preview \u30fb\u30fb\u30fb Switching of Tab Preview     Always on top  Bind Selected Window \u30fb\u30fb\u30fbBind another window to the panel  Search Highlight     (-) 100% (+) \u30fb\u30fb\u30fb Change zoom ratio     AdBlock(ALL) \u30fb\u30fb\u30fb Switching on AdBlock for all tabs   AdBlock(Tab) \u30fb\u30fb\u30fb Switching on AdBlock for each tab   AdBlock(Domain) \u30fb\u30fb\u30fb Switching on AdBlock for each domain      Window SubMenu  Always Show Bookmarks Bar  Show bookmark bar on top page  Show bookmark bar on mouse hover  OneLine Menu \u30fb\u30fb\u30fb Switch this panel to One Line mode  Detach This Panel  Panels to Windows \u30fb\u30fb\u30fb Separating the panel into windows   Full Screen Mode       More Tools  Open Opposite \u30fb\u30fb\u30fb Configure whether to open the opposite panel   Search Highlight Recursive \u30fb\u30fb\u30fb Configure whether to repeat highlighted search   Don't load tabs untill selected  Ask where to save each file before downloading       Extract Audio from Video   Change Pdf View to Comic \u30fb\u30fb\u30fb Set pdf files to open in comic mode  Sync Datas     Print  Search  Settings  Toggle Developer Tools     Close This Panel  Close Window     Restart Browser  Quit Browser     About \u30fb\u30fb\u30fb Browser version information", 
+            "title": "1. Main menu"
+        }, 
+        {
+            "location": "/menu-and-bar/#2-menubar", 
+            "text": "Menu icon and Chrome Extension icon are displayed on Menubar. \nAlso, if you display the Main menu, the background Menubar will be displayed.  Right-click on the icon on the menu bar and select \"Sort Menu\", you can sort icons on Menubar.", 
+            "title": "2. Menubar"
+        }, 
+        {
+            "location": "/history/", 
+            "text": "History\n\n\nThis browser's history function, in addition to the usual history, it can record the number of page views and length of stay on a page.\n\n\nYou can access the history log through the three methods below.\n\n\n\n\nMove from the top page to the history page.\n\n\nClick the history icon on the menubar.\n\n\nClick the history icon on the sidebar.", 
+            "title": "18. History"
+        }, 
+        {
+            "location": "/history/#history", 
+            "text": "This browser's history function, in addition to the usual history, it can record the number of page views and length of stay on a page.  You can access the history log through the three methods below.   Move from the top page to the history page.  Click the history icon on the menubar.  Click the history icon on the sidebar.", 
+            "title": "History"
+        }, 
+        {
+            "location": "/top-page/", 
+            "text": "Top Page\n\n\nOn the top page, the links and speed dials to all the pages being managed and the latest history are displayed.\n\n\n\n\n1. Speed Dial\n\n\nThe speed dial displayed on the top of the page shows the number of PVs in ascending order. \n\nOn each site, the X button and hairpin button are displayed. If you press the X button, the PV numbers will be cleared and removed from the speed dial displayed.  \n\n\nf you press the pin button , the display position will be fixed at the top. When you press the X button, you can return to normal and the links at the bottom will be shown.  \n\n\nAt the bottom-right side of the speed dial is a + button which you can press to add a new site to the speed dial.\n\nThe added site will be kept in the top page folder of the bookmarks.\n\n\n\n\n\n2. Other\n\n\n\n\n\n\nWhen \"Main Menu \n Window SubMenu \n Show bookmark bar on top page\" is ON, only the bookmarks in the top page will be shown.\n\n\n\n\n\n\nAt the top of the page, the following management pages' links will be shown.\n\n\n\n\nTop Page\n\n\nBookmarks\n\n\nHistory\n\n\nDownloads\n\n\nNote\n\n\nSettings\n\n\nFile Explorer\n\n\nTerminal\n\n\nAutomation\n\n\nVideo Converter\n\n\n\n\n\n\n\n\nAt the lower part of the screen the latest browsing history is displayed.", 
+            "title": "19. Top Page"
+        }, 
+        {
+            "location": "/top-page/#top-page", 
+            "text": "On the top page, the links and speed dials to all the pages being managed and the latest history are displayed.", 
+            "title": "Top Page"
+        }, 
+        {
+            "location": "/top-page/#1-speed-dial", 
+            "text": "The speed dial displayed on the top of the page shows the number of PVs in ascending order.  \nOn each site, the X button and hairpin button are displayed. If you press the X button, the PV numbers will be cleared and removed from the speed dial displayed.    f you press the pin button , the display position will be fixed at the top. When you press the X button, you can return to normal and the links at the bottom will be shown.    At the bottom-right side of the speed dial is a + button which you can press to add a new site to the speed dial. \nThe added site will be kept in the top page folder of the bookmarks.", 
+            "title": "1. Speed Dial"
+        }, 
+        {
+            "location": "/top-page/#2-other", 
+            "text": "When \"Main Menu   Window SubMenu   Show bookmark bar on top page\" is ON, only the bookmarks in the top page will be shown.    At the top of the page, the following management pages' links will be shown.   Top Page  Bookmarks  History  Downloads  Note  Settings  File Explorer  Terminal  Automation  Video Converter     At the lower part of the screen the latest browsing history is displayed.", 
+            "title": "2. Other"
+        }, 
+        {
+            "location": "/screenshot/", 
+            "text": "Screenshot\n\n\nScreenshots of the whole page or of a selected area can be made.  \n\n\nMousing over the camera icon of the main menu displays the below menu and screenshots can be obtained.\n\n - Full Page | Clipboard \u30fb\u30fb\u30fb Save whole page screenshots to clipboard \n - Full Page | Jpeg \u30fb\u30fb\u30fb Save whole page screenshots in JPEG \n - Full Page | PNG \u30fb\u30fb\u30fb Save whole page screenshots in PNG \n - Selection | Clipboard \u30fb\u30fb\u30fb Save selected area screenshots to clipboard\n - Selection | Jpeg \u30fb\u30fb\u30fb Save selected area screenshots in JPEG \n - Selection | PNG \u30fb\u30fb\u30fb Save selected area screenshots in PNG \n\n\nIf selected area screenshots is selected, the background turns grey.\n\nAfterwards, holding the left click, moving the mouse then releasing determines the selected area to be screenshot.", 
+            "title": "20. Screenshot"
+        }, 
+        {
+            "location": "/screenshot/#screenshot", 
+            "text": "Screenshots of the whole page or of a selected area can be made.    Mousing over the camera icon of the main menu displays the below menu and screenshots can be obtained. \n - Full Page | Clipboard \u30fb\u30fb\u30fb Save whole page screenshots to clipboard \n - Full Page | Jpeg \u30fb\u30fb\u30fb Save whole page screenshots in JPEG \n - Full Page | PNG \u30fb\u30fb\u30fb Save whole page screenshots in PNG \n - Selection | Clipboard \u30fb\u30fb\u30fb Save selected area screenshots to clipboard\n - Selection | Jpeg \u30fb\u30fb\u30fb Save selected area screenshots in JPEG \n - Selection | PNG \u30fb\u30fb\u30fb Save selected area screenshots in PNG   If selected area screenshots is selected, the background turns grey. \nAfterwards, holding the left click, moving the mouse then releasing determines the selected area to be screenshot.", 
+            "title": "Screenshot"
+        }, 
+        {
+            "location": "/find-in-page/", 
+            "text": "Find in Page\n\n\nIn addition to the search function of Chrome, OR search and regular expression search can be performed. \nIt is also equipped with \"Search Highlight\" function. \n\n\n\n\n1. Search Options\n\n\nClicking Ctrl or Cmd+F or selecting Main Menu\nSearch can start a search within a page.  \n\nThe following options can be used in searches.  \n\n\n\n\nCase \u30fb\u30fb\u30fb Finding a search match by differentiating upper case and lower case characters\n\n\nOR \u30fb\u30fb\u30fb Carrying out OR searches using space division \n\n\nReg \u30fb\u30fb\u30fb Carrying out searches using regular expressions \n\n\n\n\n\n\n\n\n2. Search Highlight\n\n\n\"Search Highlight\" is a function that carries out searches within a page automatically of a search engine search word.  \n\n\nWhen \"ain Menu \n Search Highlight\" is turned ON,\nthe search word is highlighted on the search engine page and the next page.\n\n\nWhen \"Main Menu \n More Tools \n Search Highlight Recursive\" is turned ON,\nall pages after search will be subject to Search Highlight.", 
+            "title": "21. Find in Page"
+        }, 
+        {
+            "location": "/find-in-page/#find-in-page", 
+            "text": "In addition to the search function of Chrome, OR search and regular expression search can be performed. \nIt is also equipped with \"Search Highlight\" function.", 
+            "title": "Find in Page"
+        }, 
+        {
+            "location": "/find-in-page/#1-search-options", 
+            "text": "Clicking Ctrl or Cmd+F or selecting Main Menu Search can start a search within a page.   \nThe following options can be used in searches.     Case \u30fb\u30fb\u30fb Finding a search match by differentiating upper case and lower case characters  OR \u30fb\u30fb\u30fb Carrying out OR searches using space division   Reg \u30fb\u30fb\u30fb Carrying out searches using regular expressions", 
+            "title": "1. Search Options"
+        }, 
+        {
+            "location": "/find-in-page/#2-search-highlight", 
+            "text": "\"Search Highlight\" is a function that carries out searches within a page automatically of a search engine search word.    When \"ain Menu   Search Highlight\" is turned ON,\nthe search word is highlighted on the search engine page and the next page.  When \"Main Menu   More Tools   Search Highlight Recursive\" is turned ON,\nall pages after search will be subject to Search Highlight.", 
+            "title": "2. Search Highlight"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/", 
+            "text": "Display Functions, Binding Window\n\n\nIt features various functions such as Fullscreen Mode and Always On Top, Fixing the Window to the Panel, Mobile Display (User Agent Change), AutoPagerize.\n\n\n\n\n1. Fullscreen Mode\n\n\nBy one of \"click on the full screen button at the upper right of the screen\", \"press F11 key\", \"double click on the movie,\" you can enter Fullscreen Mode.\n\n\nWhen you move the mouse cursor the menu gets displayed on the popup and it makes the full screen operation available.\n\n\n\n\n\n\n2. Bind Selected Window (Windows and Linux only)\n\n\nAs an unique function on this browser, it becomes a function where it fixes and controls the windows of other apps against the tab on browser as if it\u2019s an app inside one tab.   \n\n\nIt is supposed to be used to fix video players and text editors and perform the work in parallel.  \n\n\nThe binding will start by selecting \"Main Menu \n Bind Selected Window\" and click an app you want to bind.\n\nThe binding will be cancelled when you close the tab.\n\n\n\n\n\n3. Always on Top\n\n\nSelecting \"Main Menu\n Always on Top\" displays the target window as the topmost layer. \n\n\n\n\n\n4. Mobile Mode\n\n\nClicking the celphone icon on the menu bar can change the page view to mobile view.\n\nAlso, it's also possible to change the view to user agents other than mobile view. The following user agents can be used. \n\n\n\n\nNexus P6\n\n\nGalaxy S9\n\n\niPhone\n\n\nIE6\n\n\nIE9\n\n\nIE11\n\n\nEdge\n\n\nFirefox 61\n\n\nOpera\n\n\nSafari (Mac)\n\n\nChrome 67 (Win)\n\n\nChrome 67 (Mac)\n\n\nChrome 67 (Linux)\n\n\n\n\n\n\n\n\n5. AutoPagerize\n\n\nThis browser's default becomes ON by automatically reading the website's next page over multiple pages, and expanding the browser to carry out the extended view.   \n\n\nIt can be turned OFF from \"Settings \n Extensions\" or the background of the menu bar.", 
+            "title": "22. Display Functions, Binding Window"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/#display-functions-binding-window", 
+            "text": "It features various functions such as Fullscreen Mode and Always On Top, Fixing the Window to the Panel, Mobile Display (User Agent Change), AutoPagerize.", 
+            "title": "Display Functions, Binding Window"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/#1-fullscreen-mode", 
+            "text": "By one of \"click on the full screen button at the upper right of the screen\", \"press F11 key\", \"double click on the movie,\" you can enter Fullscreen Mode.  When you move the mouse cursor the menu gets displayed on the popup and it makes the full screen operation available.", 
+            "title": "1. Fullscreen Mode"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/#2-bind-selected-window-windows-and-linux-only", 
+            "text": "As an unique function on this browser, it becomes a function where it fixes and controls the windows of other apps against the tab on browser as if it\u2019s an app inside one tab.     It is supposed to be used to fix video players and text editors and perform the work in parallel.    The binding will start by selecting \"Main Menu   Bind Selected Window\" and click an app you want to bind. \nThe binding will be cancelled when you close the tab.", 
+            "title": "2. Bind Selected Window (Windows and Linux only)"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/#3-always-on-top", 
+            "text": "Selecting \"Main Menu  Always on Top\" displays the target window as the topmost layer.", 
+            "title": "3. Always on Top"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/#4-mobile-mode", 
+            "text": "Clicking the celphone icon on the menu bar can change the page view to mobile view. \nAlso, it's also possible to change the view to user agents other than mobile view. The following user agents can be used.    Nexus P6  Galaxy S9  iPhone  IE6  IE9  IE11  Edge  Firefox 61  Opera  Safari (Mac)  Chrome 67 (Win)  Chrome 67 (Mac)  Chrome 67 (Linux)", 
+            "title": "4. Mobile Mode"
+        }, 
+        {
+            "location": "/display-switching-and-bind-window/#5-autopagerize", 
+            "text": "This browser's default becomes ON by automatically reading the website's next page over multiple pages, and expanding the browser to carry out the extended view.     It can be turned OFF from \"Settings   Extensions\" or the background of the menu bar.", 
+            "title": "5. AutoPagerize"
+        }, 
+        {
+            "location": "/bookmarks/", 
+            "text": "Bookmarks\n\n\nYou can access bookmarks from Top Page, Menubar, Sidebar, Bookmark Bar.\n\n\n\n\n1. Bookmark Page\n\n\nIn the bookmarked page that is accessed from the menu bar sidebar, the following operations can be carried out. \n\n\n\n\nmoves using drag and drop \n\n\nsearches from the top portion search box \n\n\noperations from the right-click menu \n\n\nOpen Link in New Tab\n\n\nOpen Link in New Private Tab\n\n\nOpen Link in New Tor Tab\n\n\nOpen Link in New Session Tab\n\n\nOpen Link in New Window\n\n\nOpen Link in New Window with a Row \u30fb\u30fb\u30fb In the new window it lines up the panel in one rows and opens multiple links.\n\n\nOpen Link in New Window with two Rows\n\n\nEdit\n\n\nCopy\n\n\nDelete\n\n\nAdd Bookmark...\n\n\nAdd Folder...\n\n\n\n\n\n\n\n\nThe bookmark page accessed from Top page is intended for editing,\n\nWhen opening a Web page, unlike the Sidebar bookmark, you need to double click on the item.\n\n\n\n\n\n2. Bookmark bar\n\n\nThe bar displayed at the top of the browser, by default, and it is displayed only with Top page.  \n\n\n\n\nWhen \"Main Menu \n Window SubMenu \n Always Show Bookmarks Bar\" is selected, the bookmark bar is always displayed.\n\n\nWhen \"Main Menu \n Window SubMenu \n Show bookmark bar on top page\" is selected, display the bookmark bar on the Top Page is changed.\n\n\nWhen \"Main Menu \n Window SubMenu \n Show bookmark bar on mouse hover\" is selected and you move the mouse cursor to the top of the screen displays the bookmark bar.", 
+            "title": "23. Bookmarks"
+        }, 
+        {
+            "location": "/bookmarks/#bookmarks", 
+            "text": "You can access bookmarks from Top Page, Menubar, Sidebar, Bookmark Bar.", 
+            "title": "Bookmarks"
+        }, 
+        {
+            "location": "/bookmarks/#1-bookmark-page", 
+            "text": "In the bookmarked page that is accessed from the menu bar sidebar, the following operations can be carried out.    moves using drag and drop   searches from the top portion search box   operations from the right-click menu   Open Link in New Tab  Open Link in New Private Tab  Open Link in New Tor Tab  Open Link in New Session Tab  Open Link in New Window  Open Link in New Window with a Row \u30fb\u30fb\u30fb In the new window it lines up the panel in one rows and opens multiple links.  Open Link in New Window with two Rows  Edit  Copy  Delete  Add Bookmark...  Add Folder...     The bookmark page accessed from Top page is intended for editing, \nWhen opening a Web page, unlike the Sidebar bookmark, you need to double click on the item.", 
+            "title": "1. Bookmark Page"
+        }, 
+        {
+            "location": "/bookmarks/#2-bookmark-bar", 
+            "text": "The bar displayed at the top of the browser, by default, and it is displayed only with Top page.     When \"Main Menu   Window SubMenu   Always Show Bookmarks Bar\" is selected, the bookmark bar is always displayed.  When \"Main Menu   Window SubMenu   Show bookmark bar on top page\" is selected, display the bookmark bar on the Top Page is changed.  When \"Main Menu   Window SubMenu   Show bookmark bar on mouse hover\" is selected and you move the mouse cursor to the top of the screen displays the bookmark bar.", 
+            "title": "2. Bookmark bar"
+        }, 
+        {
+            "location": "/build-in-tools/", 
+            "text": "Build-in Tool\n\n\nTerminal, File Explorer, Video Player, Text editor are available.\n\n\n\n\n\n\nTerminal: It can operate Bash for Linux/Mac and Power Shell for Windows. \n\n\nFile explorer: It can manage and browse files. \n\n\nVideo Player: It can be used for automatic playback of videos. \n\n\nText editor: It can edit text and source codes etc.", 
+            "title": "24. Build-in Tool"
+        }, 
+        {
+            "location": "/build-in-tools/#build-in-tool", 
+            "text": "Terminal, File Explorer, Video Player, Text editor are available.    Terminal: It can operate Bash for Linux/Mac and Power Shell for Windows.   File explorer: It can manage and browse files.   Video Player: It can be used for automatic playback of videos.   Text editor: It can edit text and source codes etc.", 
+            "title": "Build-in Tool"
+        }, 
+        {
+            "location": "/video-converter/", 
+            "text": "Video Converter\n\n\n\n\nWe have implemented a Video Converter function using HandBrake.\n\nThe UI of the screen is almost the same as HandBrake.", 
+            "title": "25. Video Conveter"
+        }, 
+        {
+            "location": "/video-converter/#video-converter", 
+            "text": "We have implemented a Video Converter function using HandBrake. \nThe UI of the screen is almost the same as HandBrake.", 
+            "title": "Video Converter"
+        }, 
+        {
+            "location": "/automation/", 
+            "text": "Automation\n\n\nWith automatic operation assist functions such as iMacros and IDE,\nwe have implemented an API compatible with Puppeteer (automation in headless Chrome) API.\n\n\n\n\n1. Recording operation\n\n\nClick the Record button at the top of the screen to start recording the operation.\n\nAfter completing the operation you want to record in one step, click the Record Stop button to end recording.\n\n\nThe first row of the project panel will become one save unit of the recording.   \n\n\nThe recorded operation will display the following items onscreen. \n\n\n\n\nCommand \u30fb\u30fb\u30fb Recorded comments (events) \n\n\nTarget \u30fb\u30fb\u30fb CSS selector of the process target \n\n\nValue \u30fb\u30fb\u30fb Values used in the operation\n\n\nInfo \u30fb\u30fb\u30fb Other information \n\n\n\n\n\n\n\n\n2. Playing back recorded operation\n\n\nClicking the Play button plays the recorded operation.  \n\n\nClicking the pause button can temporarily stop the playback. \n\n\n\n\n\n3. Export of recording, PlayGround\n\n\nClicking the Export/Playground button displays the automatic running script. \n\nThis script became a script that could be run in Puppeteer.\n\n\nFrom the lower part of pop-ups the following operation can be run. \n\n\n\n\nSave File \u30fb\u30fb\u30fb Save the script as a JS file. \n\n\nRun \u30fb\u30fb\u30fb Run script in Sushi Browser. \n\n\nRun on Puppeteer \u30fb\u30fb\u30fb Run script in the project's Puppeteer designated by an \"Puppeteer Project Path\".  \n\n\nClose \u30fb\u30fb\u30fb Close the pop-up window. \n\n\n\n\n\n\n\n\n4. Settings\n\n\n\n\nPlayback Speed \u30fb\u30fb\u30fb Configure the script's playback speed. \n\n\nHighlight Elements \u30fb\u30fb\u30fb Configure whether or not to highlight elements during script recording time. \n\n\nEvents Recorded \u30fb\u30fb\u30fb Choose events to record. \n\n\nHover Behavior \u30fb\u30fb\u30fb Set standby time as a mouse-over until it is recorded.", 
+            "title": "26. Automation"
+        }, 
+        {
+            "location": "/automation/#automation", 
+            "text": "With automatic operation assist functions such as iMacros and IDE,\nwe have implemented an API compatible with Puppeteer (automation in headless Chrome) API.", 
+            "title": "Automation"
+        }, 
+        {
+            "location": "/automation/#1-recording-operation", 
+            "text": "Click the Record button at the top of the screen to start recording the operation. \nAfter completing the operation you want to record in one step, click the Record Stop button to end recording.  The first row of the project panel will become one save unit of the recording.     The recorded operation will display the following items onscreen.    Command \u30fb\u30fb\u30fb Recorded comments (events)   Target \u30fb\u30fb\u30fb CSS selector of the process target   Value \u30fb\u30fb\u30fb Values used in the operation  Info \u30fb\u30fb\u30fb Other information", 
+            "title": "1. Recording operation"
+        }, 
+        {
+            "location": "/automation/#2-playing-back-recorded-operation", 
+            "text": "Clicking the Play button plays the recorded operation.    Clicking the pause button can temporarily stop the playback.", 
+            "title": "2. Playing back recorded operation"
+        }, 
+        {
+            "location": "/automation/#3-export-of-recording-playground", 
+            "text": "Clicking the Export/Playground button displays the automatic running script.  \nThis script became a script that could be run in Puppeteer.  From the lower part of pop-ups the following operation can be run.    Save File \u30fb\u30fb\u30fb Save the script as a JS file.   Run \u30fb\u30fb\u30fb Run script in Sushi Browser.   Run on Puppeteer \u30fb\u30fb\u30fb Run script in the project's Puppeteer designated by an \"Puppeteer Project Path\".    Close \u30fb\u30fb\u30fb Close the pop-up window.", 
+            "title": "3. Export of recording, PlayGround"
+        }, 
+        {
+            "location": "/automation/#4-settings", 
+            "text": "Playback Speed \u30fb\u30fb\u30fb Configure the script's playback speed.   Highlight Elements \u30fb\u30fb\u30fb Configure whether or not to highlight elements during script recording time.   Events Recorded \u30fb\u30fb\u30fb Choose events to record.   Hover Behavior \u30fb\u30fb\u30fb Set standby time as a mouse-over until it is recorded.", 
+            "title": "4. Settings"
+        }, 
+        {
+            "location": "/web-technology/", 
+            "text": "Introduction of Web Technology\n\n\nThis browser makes use of wonderful web technologies, starting with the following. \n\n\n\n\n\n\nMuon\n (A fork from \nElectron\n, used for the \nBrave browser\n, and a framework for high speed browsers) \n\n\nInferno\n (An extremely fast, React-like library)\n\n\nxterm.js\n (Terminal used for visual studio code etc.)\n\n\nTor\n\n\nyoutube-dl\n\n\nSemantic UI React\n\n\nTOAST UI Editor\n\n\nAce Editor", 
+            "title": "27. Introduction of Web Technology"
+        }, 
+        {
+            "location": "/web-technology/#introduction-of-web-technology", 
+            "text": "This browser makes use of wonderful web technologies, starting with the following.     Muon  (A fork from  Electron , used for the  Brave browser , and a framework for high speed browsers)   Inferno  (An extremely fast, React-like library)  xterm.js  (Terminal used for visual studio code etc.)  Tor  youtube-dl  Semantic UI React  TOAST UI Editor  Ace Editor", 
+            "title": "Introduction of Web Technology"
+        }
+    ]
+}

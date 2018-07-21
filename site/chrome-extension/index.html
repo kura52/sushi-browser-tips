@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>13. Chrome Extension - Sushi Browser Tips</title>
+    <link href="../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/highlight.css">
+    <link href="../css/org.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Chrome Extension", url: "#_top", children: [
+              {title: "1. Installation and Setting", url: "#1-installation-and-setting" },
+              {title: "2. Installation", url: "#2-installation" },
+              {title: "3. Chrome Extension API", url: "#3-chrome-extension-api" },
+          ]},
+        ];
+
+    </script>
+    <script src="../js/base.js"></script> 
+<link rel="shortcut icon" href="../../myimg/logo.png">
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../chrome-theme/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../chrome-theme/" class="btn btn-xs btn-link">
+        14. Chrome Theme
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../mouse-gesture/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../mouse-gesture/" class="btn btn-xs btn-link">
+        12. Mouse Gesture
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h2 id="chrome-extension">Chrome Extension</h2>
+<p>This browser partially supports Chrome Extension. Also, some Firefox Addon (WebExtension) can be used.    </p>
+<hr />
+<h3 id="1-installation-and-setting">1. Installation and Setting</h3>
+<p>You can install <a href="https://chrome.google.com/webstore/category/extensions">Chrome Extension</a>, <a href="https://addons.mozilla.org/">Firefox Addon</a> from its official website.  </p>
+<p>You can control and delete valid / invalid for the installed extension from "Settings &gt; Extensions".<br />
+Pressing the optional gear icon moves you to the settings page.
+<img alt="extension" src="../img/extension.gif" /></p>
+<hr />
+<h3 id="2-installation">2. Installation</h3>
+<p>In the installer version, Chrome Extension is installed in the following folder.  </p>
+<ul>
+<li>Windows: C:\Users[Name]\AppData\Roaming\sushiBrowser\resource\extension</li>
+<li>MacOS: /Users/[Name]/Library/Application Support/sushiBrowser/resource/extension</li>
+<li>Linux: ~/.config/sushiBrowser/resource/extension/</li>
+</ul>
+<p>In the portable version, it is saved under "data/resource/extension" of the unzipped folder.</p>
+<hr />
+<h3 id="3-chrome-extension-api">3. Chrome Extension API</h3>
+<p>Some or all of the following APIs are supported.</p>
+<ul>
+<li>chrome.bookmarks</li>
+<li>chrome.browserAction</li>
+<li>chrome.browsingData</li>
+<li>chrome.commands</li>
+<li>chrome.contentSettings</li>
+<li>chrome.contextMenus</li>
+<li>chrome.cookies</li>
+<li>chrome.downloads</li>
+<li>chrome.extension</li>
+<li>chrome.history</li>
+<li>chrome.i18</li>
+<li>chrome.idle</li>
+<li>chrome.notifications</li>
+<li>chrome.pageAction</li>
+<li>chrome.proxy</li>
+<li>chrome.runtime</li>
+<li>chrome.sessions</li>
+<li>chrome.storage</li>
+<li>chrome.tabs</li>
+<li>chrome.topSites</li>
+<li>chrome.webNavigation</li>
+<li>chrome.webRequest</li>
+<li>chrome.windows</li>
+</ul>
+<p>The unsupported API is as follows.</p>
+<ul>
+<li>chrome.accessibilityFeatures</li>
+<li>chrome.alarms</li>
+<li>chrome.certificateProvider</li>
+<li>chrome.debugger</li>
+<li>chrome.declarativeContent</li>
+<li>chrome.desktopCapture</li>
+<li>chrome.devtools</li>
+<li>chrome.documentScan</li>
+<li>chrome.enterprise</li>
+<li>chrome.events</li>
+<li>chrome.fileBrowserHandler</li>
+<li>chrome.fileSystemProvider</li>
+<li>chrome.fontSettings</li>
+<li>chrome.gcm</li>
+<li>chrome.identity</li>
+<li>chrome.instanceID</li>
+<li>chrome.management</li>
+<li>chrome.networking</li>
+<li>chrome.omnibox</li>
+<li>chrome.pageCapture</li>
+<li>chrome.permissions</li>
+<li>chrome.platformKeys</li>
+<li>chrome.power</li>
+<li>chrome.printerProvider</li>
+<li>chrome.privacy</li>
+<li>chrome.system</li>
+<li>chrome.tabCapture</li>
+<li>chrome.tts</li>
+<li>chrome.ttsEngine</li>
+<li>chrome.types</li>
+<li>chrome.vpnProvider</li>
+<li>chrome.wallpaper</li>
+<li>chrome.webstore</li>
+</ul>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../chrome-theme/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../chrome-theme/" class="btn btn-xs btn-link">
+        14. Chrome Theme
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../mouse-gesture/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../mouse-gesture/" class="btn btn-xs btn-link">
+        12. Mouse Gesture
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="None">
+    
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Sushi Browser Tips</title>
+    <link href="./css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="./css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="./css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/highlight.css">
+    <link href="./css/org.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script src="./js/bootstrap-3.3.7.min.js"></script>
+    <script src="./js/highlight.pack.js"></script>
+    
+      <script src="./js/elasticlunr.min.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '.';
+      var is_top_frame = (window === window.parent);
+        
+        var pageToc = [
+          {title: "Sushi Browser Tips", url: "#_top", children: [
+          ]},
+        ];
+
+    </script>
+    <script src="./js/base.js"></script> 
+<style>p {
+    margin: 0 0 20px;
+}</style>
+<link rel="shortcut icon" href="../../myimg/logo.png">
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+<nav class="navbar wm-page-top-frame">
+  <div class="container-fluid wm-top-container">
+    
+    <div class="wm-top-tool pull-right wm-vcenter">
+      <form class="dropdown wm-vcentered" id="wm-search-form" action="./search.html">
+        
+        <button id="wm-search-show" class="btn btn-sm btn-default" type="submit"
+          ><i class="fa fa-search" aria-hidden="true"></i></button>
+
+        <div class="input-group input-group-sm wm-top-search">
+          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search" autocomplete="off">
+          <span class="input-group-btn" role="search">
+            
+            <button class="btn btn-default dropdown-toggle collapse" data-toggle="dropdown" type="button"><span class="caret"></span></button>
+            <ul id="mkdocs-search-results" class="dropdown-menu dropdown-menu-right"></ul>
+            <button id="wm-search-go" class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+          </span>
+        </div>
+      </form>
+    </div>
+
+    
+    <div class="wm-top-tool wm-vcenter pull-right wm-small-left">
+<a class="menu-top" href="/ja/tips/">目次</a>
+<a class="menu-top" href="/ja/">Home</a>
+<a class="menu-top" href="/ja/download.html">Download</a>
+<a class="menu-top" href="https://github.com/kura52/sushi-browser/tree/master/ja">GitHub</a>
+      <button id="wm-toc-button" type="button" class="btn btn-sm btn-default wm-vcentered"><i class="fa fa-th-list" aria-hidden="true"></i></button>
+    </div>
+
+    
+    
+
+    
+    <a href="" class="wm-top-brand wm-top-link wm-vcenter">
+      
+      <div class="wm-top-title">
+        
+        
+      </div>
+    </a>
+  </div>
+</nav>
+
+  <div id="main-content" class="wm-page-top-frame">
+    
+<nav class="wm-toc-pane">
+  
+  <ul class="wm-toctree">
+        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">目次</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="multi-panel/" class="wm-article-link wm-toc-text">1. マルチパネル</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="video/" class="wm-article-link wm-toc-text">2. 動画支援機能</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="tab/" class="wm-article-link wm-toc-text">3. タブ機能</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="session-manager/" class="wm-article-link wm-toc-text">4. セッションマネージャ</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="downloader/" class="wm-article-link wm-toc-text">5. ダウンローダ</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="privacy-and-security/" class="wm-article-link wm-toc-text">6. プライバシー、セキュリティ</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="search-engine/" class="wm-article-link wm-toc-text">7. 検索エンジン</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="note/" class="wm-article-link wm-toc-text">8. Note</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="portable-edtion/" class="wm-article-link wm-toc-text">9. ポータブル版</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="context-menu/" class="wm-article-link wm-toc-text">10. 右クリックメニュー</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="keyboard-shortcuts/" class="wm-article-link wm-toc-text">11. キーボードショートカット</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="mouse-gesture/" class="wm-article-link wm-toc-text">12. マウスジェスチャー</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="chrome-extension/" class="wm-article-link wm-toc-text">13. Chrome拡張</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="chrome-theme/" class="wm-article-link wm-toc-text">14. Chromeテーマ</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="data-export-and-import/" class="wm-article-link wm-toc-text">15. データのエクスポート、インポート</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="various-settings/" class="wm-article-link wm-toc-text">16. 多彩な設定</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="menu-and-bar/" class="wm-article-link wm-toc-text">17. メインメニュー、メニューバー</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="history/" class="wm-article-link wm-toc-text">18. 履歴、滞在回数・時間</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="top-page/" class="wm-article-link wm-toc-text">19. トップページ</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="screenshot/" class="wm-article-link wm-toc-text">20. スクリーンショット</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="find-in-page/" class="wm-article-link wm-toc-text">21. ページ内検索</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="display-switching-and-bind-window/" class="wm-article-link wm-toc-text">22. 表示切り替え、ウインドウ固定</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="bookmarks/" class="wm-article-link wm-toc-text">23. ブックマーク</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="build-in-tools/" class="wm-article-link wm-toc-text">24. ビルドインツール</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="video-converter/" class="wm-article-link wm-toc-text">25. Video Conveter</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="automation/" class="wm-article-link wm-toc-text">26. Automation</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="web-technology/" class="wm-article-link wm-toc-text">27. Webテクノロジーの紹介</a>
+</li>
+  </ul>
+</nav>
+
+    <div class="wm-content-pane">
+      <iframe class="wm-article" name="article"></iframe>
+    </div>
+  </div>
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="multi-panel/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="multi-panel/" class="btn btn-xs btn-link">
+        1. マルチパネル
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h1 id="sushi-browser-tips">Sushi Browser Tips</h1>
+<hr />
+<p>Sushi Browserはマルチパネルをはじめとした多数の機能を有しています。<br />
+本Tipsでは、その使い方をご紹介いたします。</p>
+<p><a href="multi-panel/"><strong>1. マルチパネル</strong></a><br />
+Sushi Browser最大の特徴は、マルチパネルでの表示・操作に特化していることにあります。<br />
+複数のwebページを並べて表示するだけでなく、本ブラウザにしかない様々な機能があります。</p>
+<p><a href="video/"><strong>2. 動画支援機能</strong></a><br />
+動画ダウンロードやマウス操作などの支援機能を備えており、 動画再生用ブラウザとして活用できます。</p>
+<p><a href="tab/"><strong>3. タブ機能</strong></a><br />
+タブに関しても、画面の有効利用や便利機能の取り込みを積極的に行っています。<br />
+例えば、FirefoxのアドオンのTab Mix Plusに相当する機能を多数取り入れています。</p>
+<p><a href="session-manager/"><strong>4. セッションマネージャ</strong></a><br />
+本ブラウザは、一定間隔ごとにブラウザのウインドウ、タブ状態を保存し、再生するセッション管理機能を有しています。
+また、タブごみ箱やタブ履歴といったタブの復元のための機能もあります。</p>
+<p><a href="downloader/"><strong>5. ダウンローダ</strong></a><br />
+Aria2cを利用したダウンロード機能を搭載し、16並列のダウンロードや、レジューム機能を備えています。<br />
+FirefoxのDownThemALl!のように右クリックでページ中のリンク・画像・動画を一括ダウンロードできます。 </p>
+<p><a href="privacy-and-security/"><strong>6. プライバシー、セキュリティ</strong></a><br />
+Adblock、Tor・Private・Sessionタブ、VPN、HTTPS Everywhere、Tracking Protection、Fingerprinting Protectionといった機能があります。</p>
+<p><a href="search-engine/"><strong>7. 検索エンジン</strong></a><br />
+選択範囲を検索することや、複数の検索エンジンでの同時検索など強力な検索機能があります。</p>
+<p><a href="note/"><strong>8. Note</strong></a><br />
+トップページまたはサイドバーから呼び出せるノート(メモ)機能があります。<br />
+TOAST UI Editorを利用しており、WYSIWYG形式（見た目通りの編集）とMarkdown形式で編集可能です。</p>
+<p><a href="portable-edtion/"><strong>9. ポータブル版</strong></a><br />
+ポータブル版では、ユーザデータを実行ファイルと同じフォルダに保存することができ、他のPCへ容易にデータを持ち運んだり、
+同じPC内に複数のポータブル版ブラウザを起動することができます。</p>
+<p><a href="context-menu/"><strong>10. 右クリックメニュー</strong></a><br />
+他のブラウザで用意されている右クリックメニューに加えて、本ブラウザでは独自の様々なメニューを実装しています。</p>
+<p><a href="keyboard-shortcuts/"><strong>11. キーボードショートカット</strong></a><br />
+100を超える機能に対して、キーボードショートカットを設定することができます。</p>
+<p><a href="mouse-gesture/"><strong>12. マウスジェスチャー</strong></a><br />
+Chromeとは違い、管理ページでもマウスジェスチャーを使用することができます。
+また、Mac/Linux版でも通常通り右クリックメニューが利用できます。</p>
+<p><a href="chrome-extension/"><strong>13. Chrome拡張</strong></a><br />
+Chrome拡張を部分的にサポートしています。また、一部のFirefoxアドオン(WebExtension)も利用できます。</p>
+<p><a href="chrome-theme/"><strong>14. Chromeテーマ</strong></a><br />
+Chromeウェブストアからテーマの適用ができます。</p>
+<p><a href="data-export-and-import/"><strong>15. データのエクスポート、インポート</strong></a><br />
+「設定 &gt; Data」から他のブラウザからのデータインポートや、各種データのエクスポート/インポートが行なえます。</p>
+<p><a href="various-settings/"><strong>16. 多彩な設定</strong></a><br />
+「設定 &gt; 一般」から基本的な設定と独自項目の設定が行えます。</p>
+<p><a href="menu-and-bar/"><strong>17. メインメニュー、メニューバー</strong></a><br />
+メインメニューおよびメニューバーについて説明します。</p>
+<p><a href="history/"><strong>18. 履歴、滞在回数・時間</strong></a><br />
+本ブラウザの履歴機能には、通常の履歴に加え、PV数や滞在時間の記録機能があります。</p>
+<p><a href="top-page/"><strong>19. トップページ</strong></a><br />
+トップページには、各管理ページヘのリンクとスピードダイアル、最新の履歴が表示されます。</p>
+<p><a href="screenshot/"><strong>20. スクリーンショット</strong></a><br />
+ページ全体のスクリーンショットと選択範囲のスクリーンショットが利用できます。</p>
+<p><a href="find-in-page/"><strong>21. ページ内検索</strong></a><br />
+ページ内検索では、Chromeの検索機能に加え、OR検索と正規表現による検索が行えます。
+また、ハイライト検索機能も備えています。</p>
+<p><a href="display-switching-and-bind-window/"><strong>22. 表示切り替え、ウインドウ固定</strong></a>  <br />
+フルスクリーンモード、常に手前に表示、ウインドウをパネルに固定、モバイル表示(ユーザエージェント変更)、AutoPagerizeなど様々な機能があります。</p>
+<p><a href="bookmarks/"><strong>23. ブックマーク</strong></a><br />
+Top Page、メニューバー、サイドバー、ブックマークバーからブックマークにアクセスできます。</p>
+<p><a href="build-in-tools/"><strong>24. ビルドインツール</strong></a><br />
+Terminal機能、File Explorer、ビルドイン動画プレイヤー、ビルドインテキストエディタが利用できます。</p>
+<p><a href="video-converter/"><strong>25. Video Converter</strong></a><br />
+HandBrakeを利用したVideo Converter機能を実装しています。</p>
+<p><a href="automation/"><strong>26. Automation</strong></a><br />
+iMacrosやSelenium IDEのような自動操作補助機能で、
+Puppeteer(ヘッドレスChromeでの自動化) APIと互換性のあるAPIを実装しています。</p>
+<p><a href="web-technology/"><strong>27. Webテクノロジーの紹介</strong></a><br />
+本ブラウザで使用しているWebテクノロジーについて紹介します。</p>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="multi-panel/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="multi-panel/" class="btn btn-xs btn-link">
+        1. マルチパネル
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
+<!--
+MkDocs version : 0.17.5
+Build Date UTC : 2018-07-21 13:37:12
+-->
