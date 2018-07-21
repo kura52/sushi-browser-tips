@@ -23,7 +23,7 @@ Dir.glob("site/**/index.html"){|f|
   replace_content(f, 'Sushi Browser Tips<br>', '')
   replace_content(f, '<div class="wm-top-tool wm-vcenter pull-right wm-small-left">',
                   %{<div class="wm-top-tool wm-vcenter pull-right wm-small-left">
-<a class="menu-top" href="/ja/tips/">Table of Contents</a>
+<a class="menu-top" href="/ja/tips/">目次</a>
 <a class="menu-top" href="/ja/">Home</a>
 <a class="menu-top" href="/ja/download.html">Download</a>
 <a class="menu-top" href="https://github.com/kura52/sushi-browser/tree/master/ja">GitHub</a>})
