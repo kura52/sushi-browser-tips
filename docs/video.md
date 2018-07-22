@@ -43,7 +43,7 @@ By enabling "Attempt to find and download video (Using youtube-dl)", you can det
 *********
 
 ### 2. Pop-up window, panel
-If you select the following from the context menu right clicked on the movie being played or the menu displayed after clicking the movie icon, the movie will be cut out as a popup window or panel.
+If you select the following from the context menu right clicked on the video being played or the menu displayed after clicking the video icon, the video will be cut out as a popup window or panel.
 
 - Play Video in Popup Window
 - Play Video in Floating Panel
@@ -53,8 +53,8 @@ If you select the following from the context menu right clicked on the movie bei
 *********
 
 ### 3. Mouse, keyboard operation
-Varieties of control and setting are possible with mouse and keyboard like movie player onto the movies being played.   
-Mouse wheel control is assigned to Seek, Double-click is assigned to full screen mode as default.  
+Varieties of control and setting are possible with mouse and keyboard like video player onto the videos being played.   
+**Mouse wheel control is assigned to Seek**, Double-click is assigned to full screen mode as default.  
 You can also adjust volume by Ctrl + mouse wheel.  
 
 You can set each operation with "Settings> Videos".

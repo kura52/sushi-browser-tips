@@ -6,7 +6,7 @@ For example, it incorporates a number of functions equivalent to the Firefox add
 *********
 
 ### 1. Multi-row tab
-Multistep tabs can be used in the Sushi Browser. and ordinary tabs can be switched to Multi-row tabs from the main menu.  
+Multi-row tabs can be used in the Sushi Browser. And ordinary tabs can be switched to Multi-row tabs from the main menu. 
 Also, the number of steps of the multistep tabs and the maximum and minimum tab width can be configured from "Settings > Tabs".  
 ![multi](img/tab-multi.gif)
 ![multi-setting](img/tab-multi-setting.png)
@@ -14,7 +14,7 @@ Also, the number of steps of the multistep tabs and the maximum and minimum tab 
 *********
 
 ### 2. Vertical Tab, Tree Tab
-Horizontal tabs can be used in Sushi Browser. Vertical tabs can be displayed from the sidebar icon of the menu bar.   
+Vertical tabs can be used in Sushi Browser. Vertical tabs can be displayed from the sidebar icon of the menu bar.   
 It's also possible to hide ordinary tabs when displaying vertical tabs.  
 
 Also, tree tabs can also be used (layers in the order of which the tabs were opened). The relationship between panels are displayed by numbers.  

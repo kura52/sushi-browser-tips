@@ -1,6 +1,6 @@
 ## Keyboard Shortcut
 
-It is possible to set up the keyboard shortcuts for over 100 functions.
+It is possible to set up the keyboard shortcuts for 100+ functions.
 ![keyboard](img/keyboard.png)
 
 *********

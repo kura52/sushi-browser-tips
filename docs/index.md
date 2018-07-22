@@ -43,7 +43,7 @@ Therefore you can easily carry the data to other PCs, or launch multiple portabl
 In addition to the right click menu provided by the other browsers, this browser implements the original various menus.
 
 [**11. Keyboard Shortcut**](keyboard-shortcuts.md)  
-It is possible to set up the Keyboard Shortcut for over 100 functions.
+It is possible to set up the Keyboard Shortcut for 100+ functions.
 
 [**12. Mouse Gesture**](mouse-gesture.md)  
 Unlike Chrome, you can use Mouse Gesture also on the administration page.   

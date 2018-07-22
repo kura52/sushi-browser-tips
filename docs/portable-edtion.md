@@ -1,6 +1,6 @@
 ## Portable Edition
 
-With Sushi Browser, you can choose between installation version and portable version.  
+You can choose between installation version and portable version.  
 In the portable version, user data can be saved in the same folder as the executable file.
 Therefore you can easily carry the data to other PCs, or launch multiple portable version browsers in the same PC.  
 
