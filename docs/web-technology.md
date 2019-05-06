@@ -4,7 +4,6 @@ This browser makes use of wonderful web technologies, starting with the followin
 
 *********
 
-- [Muon](https://github.com/brave/muon) (A fork from [Electron](https://github.com/electron/electron), used for the [Brave browser](https://github.com/brave/browser-laptop), and a framework for high speed browsers) 
 - [Inferno](https://github.com/infernojs/inferno) (An extremely fast, React-like library)
 - [xterm.js](https://github.com/sourcelair/xterm.js/) (Terminal used for visual studio code etc.)
 - [Tor](https://www.torproject.org/)

@@ -64,9 +64,6 @@
 
  - 新しいタブで開く
  - Open Link in Opposite Tab ・・・ リンクを対面パネルで開きます
- - 新しいプライベートタブで開く
- - Open Links in New Tor Tabs ・・・ リンクをTorタブで開きます
- - 新しいセッションタブで開く
  - 新しいウィンドウで開く
  
 <span/>
@@ -103,7 +100,6 @@
  - Muted ・・・ 動画をミュートにします
  - コントロールを表示
  - Play Video in Popup Window ・・・ 動画をポップアップウインドウに切り出します
- - Play Video in Floating Panel ・・・ 動画をフローティングパネルに切り出します
  
 <span/>
 

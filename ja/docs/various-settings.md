@@ -18,18 +18,9 @@
 
 <span/>
 
-- Adobe Flash Player ・・・ Flash PlayerのON/OFFが設定できます。起動しない場合は、[ここ](https://get.adobe.com/flashplayer/)からFlash Playerをインストールしてください。
-- Widevine
-
 <span/>
 
-- Protection  
-    - HTTPS Everywhere ・・・ http通信を可能な限りhttps通信に置き換える機能
-    - Tracking Protection ・・・ Google Analyticsのようなトラッキングサービスからの保護機能
-    - スクリプトをブロック（多くのサイトが機能しなくなります）・・・ Javascriptを無効にする機能
-    - フィンガープリンティングの保護（サイトが上手く機能しない場合があります）
 
-<span/>
 
 - オートコンプリートのデータ (ブラウザーの再起動が必要)  
     - Order of AutoComplete ・・・ 「検索エンジンによるサジェスト→履歴」の順か、「履歴→検索エンジンによるサジェスト」の順かを設定
@@ -57,7 +48,6 @@
 
 - Special Behavior  
     - Show Chrome Extension Icon on Toolbar(ブラウザーの再起動が必要) ・・・ Chrome拡張のアイコンをツールバーに表示するかバックグラウンドバーに表示するかの設定
-    - Show Fullscreen Button(ブラウザーの再起動が必要) ・・・ ウインドウ上部のフルスクリーンボタンを表示するか否かの設定
     - Enable Mouse Gesture(ブラウザーの再起動が必要)  ・・・ マウスジェスチャーのON/OFF設定
     - Show Back/Forward Button's Badget (ブラウザーの再起動が必要) ・・・ 戻る、進むボタンの右下に出る数値のアイコンを表示するかの設定
     - Show Focus Location Bar of Top Page ・・・ Top PageにFocus Location Barを表示するかの設定

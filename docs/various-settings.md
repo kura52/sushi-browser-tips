@@ -18,18 +18,8 @@ Basic settings and the configuration of unique items can be carried out from "Se
 
 <span/>
 
-- Adobe Flash Player ・・・ You can set Flash Player ON / OFF. If Flash Player does not start please install Flash Player from [here](https://get.adobe.com/flashplayer/).  
-- Widevine
-
 <span/>
 
-- Protection  
-    - HTTPS Everywhere ・・・ Function to replace http communication with https communication as much as possible
-    - Tracking Protection ・・・ Protection function from tracking services such as Google Analytics
-    - Block Scripts ・・・ Function to disable Javascript (will break many sites)
-    - Fingerprinting Protection  ・・・ Function to protect information reading by fingerprinting
-
-<span/>
 
 - Autocomplete data (Requires browser restart)
     - Order of AutoComplete ・・・ "Suggestion by search engine → History" or "history → suggestion by search engine"
@@ -57,7 +47,6 @@ Basic settings and the configuration of unique items can be carried out from "Se
 
 - Special Behavior  
     - Show Chrome Extension Icon on Toolbar(Requires browser restart) ・・・ Configure whether the Chrome expansion icon will be displayed on the tool bar or on the background bar 
-    - Show Fullscreen Button(Requires browser restart) ・・・  Set whether full screen button on top of the window is shown or not.
     - Enable Mouse Gesture(Requires browser restart)  ・・・ Set on and off of mouse gesture
     - Show Back/Forward Button's Badget (Requires browser restart) ・・・ Set if icon of value under right of the button of return and go forward is shown or not.
     - Show Focus Location Bar of Top Page ・・・ Set if focus location bar is shown or not on top page.

@@ -56,21 +56,14 @@ In addition to moving the tab, this browser can be moved all the tabs of one pan
 
 *********
 
-### 6. Floating panel mode
-By selecting Floating Panel from the menu that is displayed by right clicking a tab,you can detach the panel that can be moved within the window.   
-It is a function that can be used for playing videos etc. while web browsing. 
-![floating](img/multi-panel-floating-panel.gif)
-
-*********
-
-### 7. Slim menu
+### 6. Slim menu
 In order to make the best use of the screen space, you can switch to one line menu.    
 Using a display method that integrates the menu bar and tab bar, it achieves a menu with a mere 30px.   
 ![oneline](img/multi-panel-oneline.png)
 
 *********
 
-### 8. Swapping and Aligning panels, Switch direction
+### 7. Swapping and Aligning panels, Switch direction
  - You can switch the position of 2 panels.  
  - Panels can be lined up with fixed widths horizontally or vertically. 
  - You can realign vertically-lined panels horizontally or horizontally-lined panels vertically. 
@@ -79,7 +72,7 @@ Using a display method that integrates the menu bar and tab bar, it achieves a m
 
 *********
 
-### 9. Sync Scrolling, Link Dragging
+### 8. Sync Scrolling, Link Dragging
  - By moving the mouse wheel, you can scroll 2 panels at the same time.
  - By dragging and dropping, You can open the link text to another panel.
  
@@ -87,7 +80,7 @@ Using a display method that integrates the menu bar and tab bar, it achieves a m
 
 *********
 
-### 10. Simultaneous page transition 
+### 9. Simultaneous page transition 
 By using a regular expression, the page URL can be permutated and opened in a different page.  
 It can also open a normal page at the left and Google Translate at the right.   
 

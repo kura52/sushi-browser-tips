@@ -25,7 +25,7 @@ Aria2cを利用したダウンロード機能を搭載し、16並列のダウン
 FirefoxのDownThemALl!のように右クリックでページ中のリンク・画像・動画を一括ダウンロードできます。 
 
 [**6. プライバシー、セキュリティ**](privacy-and-security.md)  
-Adblock、Tor・Private・Sessionタブ、VPN、HTTPS Everywhere、Tracking Protection、Fingerprinting Protectionといった機能があります。
+VPN機能があります。
 
 [**7. 検索エンジン**](search-engine.md)  
 選択範囲を検索することや、複数の検索エンジンでの同時検索など強力な検索機能があります。
@@ -48,8 +48,8 @@ TOAST UI Editorを利用しており、WYSIWYG形式（見た目通りの編集�
 Chromeとは違い、管理ページでもマウスジェスチャーを使用することができます。
 また、Mac/Linux版でも通常通り右クリックメニューが利用できます。
 
-[**13. Chrome拡張**](chrome-extension.md)  
-Chrome拡張を部分的にサポートしています。また、一部のFirefoxアドオン(WebExtension)も利用できます。
+**13. Chrome拡張**  
+ほぼ全てのChrome Extensionが使用可能です。
 
 [**14. Chromeテーマ**](chrome-theme.md)  
 Chromeウェブストアからテーマの適用ができます。
@@ -72,25 +72,21 @@ Chromeウェブストアからテーマの適用ができます。
 [**20. スクリーンショット**](screenshot.md)  
 ページ全体のスクリーンショットと選択範囲のスクリーンショットが利用できます。
 
-[**21. ページ内検索**](find-in-page.md)  
-ページ内検索では、Chromeの検索機能に加え、OR検索と正規表現による検索が行えます。
-また、ハイライト検索機能も備えています。
-
-[**22. 表示切り替え、ウインドウ固定**](display-switching-and-bind-window.md)    
+[**21. 表示切り替え、ウインドウ固定**](display-switching-and-bind-window.md)    
 フルスクリーンモード、常に手前に表示、ウインドウをパネルに固定、モバイル表示(ユーザエージェント変更)、AutoPagerizeなど様々な機能があります。
 
-[**23. ブックマーク**](bookmarks.md)  
+[**22. ブックマーク**](bookmarks.md)  
 Top Page、メニューバー、サイドバー、ブックマークバーからブックマークにアクセスできます。
 
-[**24. ビルドインツール**](build-in-tools.md)  
+[**23. ビルドインツール**](build-in-tools.md)  
 Terminal機能、File Explorer、ビルドイン動画プレイヤー、ビルドインテキストエディタが利用できます。
 
-[**25. Video Converter**](video-converter.md)  
+[**24. Video Converter**](video-converter.md)  
 HandBrakeを利用したVideo Converter機能を実装しています。
 
-[**26. Automation**](automation.md)  
+[**25. Automation**](automation.md)  
 iMacrosやSelenium IDEのような自動操作補助機能で、
 Puppeteer(ヘッドレスChromeでの自動化) APIと互換性のあるAPIを実装しています。
 
-[**27. Webテクノロジーの紹介**](web-technology.md)  
+[**26. Webテクノロジーの紹介**](web-technology.md)  
 本ブラウザで使用しているWebテクノロジーについて紹介します。

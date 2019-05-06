@@ -4,7 +4,8 @@
 
 *********
 
-- [Muon](https://github.com/brave/muon) ([Brave browser](https://github.com/brave/browser-laptop)で使用されているElectronのforkで、高速なブラウザ用のフレームワーク)
+- [Electron](https://github.com/electron/electron)
+- [puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Inferno](https://github.com/infernojs/inferno) (An extremely fast, React-like library)
 - [xterm.js](https://github.com/sourcelair/xterm.js/) (visual studio codeなどで使用されているTerminal)
 - [Tor](https://www.torproject.org/)

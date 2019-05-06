@@ -64,9 +64,6 @@ You can set the display presence to right click menu from "Settings > Context Me
 
  - Open Link in New Tab
  - Open Link in Opposite Tab 
- - Open Link in New Private Tab
- - Open Links in New Tor Tabs
- - Open Link in New Session Tab
  - Open Link in New Window
  
 <span/>
@@ -103,7 +100,6 @@ You can set the display presence to right click menu from "Settings > Context Me
  - Muted ・・・ Mute the videos.
  - Show Controls
  - Play Video in Popup Window ・・・ Cut the video to the pop-up window.
- - Play Video in Floating Panel ・・・ Cut the video to the floating panel.
  
 <span/>
 

@@ -19,9 +19,6 @@ and here is an example:
 The following operations can be set up.
 
  - New Tab (CmdOrCtrl+T)
- - New Private Tab (Shift+CmdOrCtrl+P)
- - New Tor Tab
- - New Session Tab (Shift+CmdOrCtrl+S)
  - New Window (CmdOrCtrl+N)
  - Open Location (CmdOrCtrl+L Alt+D)
  
@@ -41,25 +38,13 @@ The following operations can be set up.
  - Restart Browser
  - Quit Sushi Browser (CmdOrCtrl+Q)
  
-<span/>
- 
- - Undo (CmdOrCtrl+Z)
- - Redo (CmdOrCtrl+Y)
- - Cut (CmdOrCtrl+X)
- - Copy (CmdOrCtrl+C)
- - Paste (CmdOrCtrl+V)
- - Paste Without Formatting (Shift+CmdOrCtrl+V)
- - Select All (CmdOrCtrl+A)
  
 <span/>
 
  - Find on Page (CmdOrCtrl+F F6)
- - Find Next (CmdOrCtrl+G)
- - Find Previous (CmdOrCtrl+Shift+G)
  - Actual Size (CmdOrCtrl+0)
  - Zoom In (CmdOrCtrl+= CmdOrCtrl+Shift+=)
  - Zoom Out (CmdOrCtrl+- CmdOrCtrl+Shift+-)
- - Stop (Esc)
  
 <span/>
 

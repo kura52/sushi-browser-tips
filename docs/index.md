@@ -26,7 +26,7 @@ With download function using Aria 2c, it has 16 parallel download and resume fun
 You can download links, images, and movies in the page at once by right clicking like Firefox's DownThemALL!. 
 
 [**6. Privacy and Security**](privacy-and-security.md)  
-Adblock, Tor · Private · Session tab, VPN, HTTPS Everywhere, Tracking Protection, Fingerprinting Protection are carried.  
+There is a VPN function. 
 
 [**7. Search Engines**](search-engine.md)  
 It features a powerful search function such as searching a selection range and simultaneous search with multiple search engines.  
@@ -49,8 +49,8 @@ It is possible to set up the Keyboard Shortcut for 100+ functions.
 Unlike Chrome, you can use Mouse Gesture also on the administration page.   
 Also, the context menu can be used on Mac/Linux version as usual.
 
-[**13. Chrome Extension**](chrome-extension.md)  
-This browser partially supports Chrome Extension. Also, some Firefox Addon (WebExtension) can be used.  
+13. **Chrome Extension**  
+Almost all Chrome Extensions can be used.
 
 [**14. Chrome Theme**](chrome-theme.md)  
 You can apply chrome themes from the Chrome Web Store.
@@ -73,25 +73,21 @@ On the top page, the links and speed dials to all the pages being managed and th
 [**20. Screenshot**](screenshot.md)  
 Screenshots of the whole page or a selected area can be made.  
 
-[**21. Find in Page**](find-in-page.md)  
-In "Find Page", in addition to the search functions of Chrome, it can carry out searches using OR or regular expressions.   
-It is also equipped with "Search Highlight" function. 
-
-[**22. Display Functions, Binding Window**](display-switching-and-bind-window.md)    
+[**21. Display Functions, Binding Window**](display-switching-and-bind-window.md)    
 It features various functions such as Fullscreen Mode and Always On Top, Fixing the Window to the Panel, Mobile Display (User Agent Change), AutoPagerize.
 
-[**23. Bookmarks**](bookmarks.md)  
+[**22. Bookmarks**](bookmarks.md)  
 You can access bookmarks from Top Page, Menubar, Sidebar, Bookmark Bar.
 
-[**24. Build-in Tool**](build-in-tools.md)  
+[**23. Build-in Tool**](build-in-tools.md)  
 Terminal, File Explorer, Video Player, Text editor are available.
 
-[**25. Video Converter**](video-converter.md)  
+[**24. Video Converter**](video-converter.md)  
 We have implemented a Video Converter function using HandBrake.
 
-[**26. Automation**](automation.md)  
+[**25. Automation**](automation.md)  
 With automatic operation assist functions such as iMacros and IDE,
 we have implemented an API compatible with Puppeteer (automation in headless Chrome) API.
 
-[**27. Introduction of Web Technology**](web-technology.md)  
+[**26. Introduction of Web Technology**](web-technology.md)  
 This browser makes use of wonderful web technologies, starting with the following. 

@@ -19,9 +19,6 @@
 設定可能な操作は以下になります。
 
  - 新しいタブ (CmdOrCtrl+T)
- - 新しいプライベートタブ (Shift+CmdOrCtrl+P)
- - New Tor Tab
- - 新しいセッションタブ (Shift+CmdOrCtrl+S)
  - 新しいウィンドウ (CmdOrCtrl+N)
  - 場所を開く (CmdOrCtrl+L Alt+D)
  
@@ -41,25 +38,13 @@
  - Restart Browser
  - Sushi Browserを終了 (CmdOrCtrl+Q)
  
-<span/>
- 
- - 取り消す (CmdOrCtrl+Z)
- - やり直す (CmdOrCtrl+Y)
- - 切り取り (CmdOrCtrl+X)
- - コピー (CmdOrCtrl+C)
- - 貼り付け (CmdOrCtrl+V)
- - 書式設定を削除して貼り付け (Shift+CmdOrCtrl+V)
- - 全て選択 (CmdOrCtrl+A)
  
 <span/>
 
  - ページ内検索 (CmdOrCtrl+F F6)
- - 次へ (CmdOrCtrl+G)
- - 前へ (CmdOrCtrl+Shift+G)
  - 等倍 (CmdOrCtrl+0)
  - 拡大 (CmdOrCtrl+= CmdOrCtrl+Shift+=)
  - 縮小 (CmdOrCtrl+- CmdOrCtrl+Shift+-)
- - 停止 (Esc)
  
 <span/>
 
