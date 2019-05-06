@@ -49,7 +49,7 @@ It is possible to set up the Keyboard Shortcut for 100+ functions.
 Unlike Chrome, you can use Mouse Gesture also on the administration page.   
 Also, the context menu can be used on Mac/Linux version as usual.
 
-13. **Chrome Extension**  
+**13. Chrome Extension**  
 Almost all Chrome Extensions can be used.
 
 [**14. Chrome Theme**](chrome-theme.md)  
